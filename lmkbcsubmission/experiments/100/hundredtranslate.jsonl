@@ -1,0 +1,15 @@
+{"SubjectEntity": "Austria", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Awaji Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Eleuthera", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Estadio Cementos Progreso in Guatemala City", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Ferro Carril Oeste Stadium in Buenos Aires", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Galena Park ISD Stadium in Texas", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "King Abdullah Stadium in Amman", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Knipex", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Frankfurt Stock Exchange']", "['Frankfurt Stock Exchange']", "['Frankfurt Stock Exchange']", "['Frankfurt Stock Exchange']", "['Frankfurt Stock Exchange']", "['Frankfurt Stock Exchange']", "['Frankfurt Stock Exchange']"], "ObjectEntitiesID": ["Q100075", "Q100075", "Q100075", "Q100075", "Q100075", "Q100075", "Q100075"]}
+{"SubjectEntity": "Kor\u010dula", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Nautilus, Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The text mentions \"NASDAQ\" as the stock exchange where Nautilus, Inc", "['NASDAQ']", "['NASDAQ']", "['NASDAQ']"], "ObjectEntitiesID": ["Q100075", "Q100075", "Q100075", "Q100075"]}
+{"SubjectEntity": "New \u0130zmir Stadium in \u0130zmir", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Palm, Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['NASDAQ']", "['NASDAQ']", "['NASDAQ']"], "ObjectEntitiesID": ["Q100075", "Q100075", "Q100075"]}
+{"SubjectEntity": "Sharks Stadium in Port Harcourt", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Switzerland", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Tanzania", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[\"Tanzania\", \"Kenya\", \"Malawi\", \"M", "[\"Tanzania\", \"Kenya\", \"Malawi\", \"M", "[\"Tanzania\", \"Kenya\", \"Malawi\", \"M"], "ObjectEntitiesID": ["Q100075", "Q100075", "Q100075"]}

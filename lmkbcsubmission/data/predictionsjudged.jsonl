@@ -1,0 +1,57 @@
+{"SubjectEntity": "Anatoly Pavlenko", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1947 is a year, not a location. No locations found"], "ObjectEntitiesID": [""]}
+{"SubjectEntity": "Angela Carter", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1980"], "ObjectEntitiesID": ["Q1846773"]}
+{"SubjectEntity": "Antiguo can\u00f3dromo de Carabanchel in Madrid", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "BBC World Sport Star of the Year", "Relation": "awardWonBy", "ObjectEntities": [" 2018 is not a location. So, no locations found. "], "ObjectEntitiesID": ["2018 is not a location. So, no locations found"]}
+{"SubjectEntity": "Baen\u00e3o in Bel\u00e9m", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Bahrain", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Saudi Arabia "], "ObjectEntitiesID": ["Q137931"]}
+{"SubjectEntity": "Benin", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Burkina Faso', 'Nigeria', 'Niger'] "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "BioNTech", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [" ['Frankfurt Stock Exchange']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Bloomsbury Publishing", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [" Bloomsbury Publishing "], "ObjectEntitiesID": ["Q1048284"]}
+{"SubjectEntity": "Cameroon", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Central African Republic "], "ObjectEntitiesID": ["Q144075"]}
+{"SubjectEntity": "Chad", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Central African Republic "], "ObjectEntitiesID": ["Q144395"]}
+{"SubjectEntity": "Claude Piard", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1958 is a year, not a location. No locations found"], "ObjectEntitiesID": [""]}
+{"SubjectEntity": "C\u00f4te d'Ivoire", "Relation": "countryLandBordersCountry", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Denis Law", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1980 ", " ['The City', 'Edinburgh']"], "ObjectEntitiesID": ["Q100075", "Q221854"]}
+{"SubjectEntity": "Encompass Health", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [" ['Okay', 'Encompass Health'] ", " ['Okay', 'Encompass Health'] "], "ObjectEntitiesID": ["Q100075", "Q100075"]}
+{"SubjectEntity": "Federated States of Micronesia", "Relation": "countryLandBordersCountry", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q129543"]}
+{"SubjectEntity": "FlexIT", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["5000"], "ObjectEntitiesID": ["Q1853077"]}
+{"SubjectEntity": "Focus Media Holding", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["002159.SZ "], "ObjectEntitiesID": ["Q1002159"]}
+{"SubjectEntity": "France", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Germany ", " Italy ", " Luxembourg ", " Spain "], "ObjectEntitiesID": ["Q11717", "Q131996", "Q100075", "Q145"]}
+{"SubjectEntity": "GMR Group", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [" National Stock Exchange "], "ObjectEntitiesID": ["Q1032133"]}
+{"SubjectEntity": "Hong Kong", "Relation": "countryLandBordersCountry", "ObjectEntities": ["'Hong Kong', 'Special Administrative Region', 'China' "], "ObjectEntitiesID": ["Q2145378"]}
+{"SubjectEntity": "Hydro One", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Toronto Stock Exchange']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Igor Romishevsky", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1975 "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "India", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Pakistan ", " Bangladesh ", " Myanmar ", " Afghanistan"], "ObjectEntitiesID": ["Q137587", "Q137195", "Q131996", "Q133913"]}
+{"SubjectEntity": "Iran", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Azerbaijan "], "ObjectEntitiesID": ["Q137173"]}
+{"SubjectEntity": "Jacob Palis", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1997"], "ObjectEntitiesID": ["Q184557"]}
+{"SubjectEntity": "Janusz Kochanowski", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1584"], "ObjectEntitiesID": ["Q1140947"]}
+{"SubjectEntity": "John Lewis", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1965 "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Kosovo", "Relation": "countryLandBordersCountry", "ObjectEntities": [" North Macedonia "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Kyrgyzstan", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Tajikistan "], "ObjectEntitiesID": ["Q137154"]}
+{"SubjectEntity": "Margret Middell", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1660 "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Michael Parks", "Relation": "personHasCityOfDeath", "ObjectEntities": ["['Arlington', 'Texas'] "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Nobel Prize in Literature", "Relation": "awardWonBy", "ObjectEntities": [" Sully Prudhomme "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "North Macedonia", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Bulgaria ", " Greece ", " Albania "], "ObjectEntitiesID": ["Q100075", "Q116745", "Q133"]}
+{"SubjectEntity": "Orlen Unipetrol", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [" ['Orlen Unipetrol', 'Czech']"], "ObjectEntitiesID": ["Q1923421"]}
+{"SubjectEntity": "Peru", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Brazil ", " Colombia ", " Chile ", " Bolivia "], "ObjectEntitiesID": ["Q100075", "Q1323768", "Q142", "Q100075"]}
+{"SubjectEntity": "Q3495723 in Rio de Janeiro", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "RusHydro", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["Moscow Stock Exchange ", " RUS"], "ObjectEntitiesID": ["Q100075", "Q208135"]}
+{"SubjectEntity": "SAIC Motor", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Shanghai Stock Exchange', 'Hong Kong Stock Exchange']"], "ObjectEntitiesID": ["['Q131314', 'Q1313"]}
+{"SubjectEntity": "SSE Composite Index", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1 ", " The Shanghai Stock Exchange ", " Composite Index"], "ObjectEntitiesID": ["", "Q1317359", "Q1048284"]}
+{"SubjectEntity": "Samosir Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "San Marino", "Relation": "countryLandBordersCountry", "ObjectEntities": ["5000"], "ObjectEntitiesID": ["Q1862337"]}
+{"SubjectEntity": "Santander Group", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [" The Santander Group ", " New York Stock Exchange "], "ObjectEntitiesID": ["Q2134435", "Q133730"]}
+{"SubjectEntity": "Senegal", "Relation": "countryLandBordersCountry", "ObjectEntities": ["200"], "ObjectEntitiesID": ["Q184337"]}
+{"SubjectEntity": "Slovakia", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Czech Republic "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Smisor Stadium in Kansas", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Sudan", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Eritrea "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Suwon World Cup Stadium in Suwon", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Suzano Papel e Celulose", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["Bovespa "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Sweden", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Norway "], "ObjectEntitiesID": ["Q149693"]}
+{"SubjectEntity": "Switzerland", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Liechtenstein "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "TD Ameritrade", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The company is listed on the NASDAQ under the ticker symbol AMER. "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Thailand", "Relation": "countryLandBordersCountry", "ObjectEntities": ["200 "], "ObjectEntitiesID": ["Q184544"]}
+{"SubjectEntity": "Trinidad and Tobago", "Relation": "countryLandBordersCountry", "ObjectEntities": [" ['Venezuela', 'Guyana'] ", " ['Venezuela', 'Guyana'] ", " ['Venezuela', 'Guyana'] "], "ObjectEntitiesID": ["Q100075", "Q100075", "Q100075"]}
+{"SubjectEntity": "Vladimir", "Relation": "personHasCityOfDeath", "ObjectEntities": ["2017-06-15 "], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Yemen", "Relation": "countryLandBordersCountry", "ObjectEntities": [" United Arab Emirates"], "ObjectEntitiesID": ["Q144119"]}
+{"SubjectEntity": "iF product design award", "Relation": "awardWonBy", "ObjectEntities": ["1995 "], "ObjectEntitiesID": ["Q184679"]}

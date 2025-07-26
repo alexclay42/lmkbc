@@ -1,0 +1,24 @@
+{"SubjectEntity": "Aleksandr Proshkin", "Relation": "personHasCityOfDeath", "ObjectEntities": ["The text mentions Moscow as the city of death for Aleksandr"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Alumni Memorial Stadium in North Carolina", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Amager", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Awaji Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Colombia", "Relation": "countryLandBordersCountry", "ObjectEntities": ["(your response, with the values that appear 2 or more times)"], "ObjectEntitiesID": ["Q1048284 Q100075"]}
+{"SubjectEntity": "Costa Rica", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Costa Rica', 'Nicaragua', 'Panama']"], "ObjectEntitiesID": ["['Q11519', 'Q11518"]}
+{"SubjectEntity": "Cuba", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Estadio San Carlos de Apoquindo in Santiago", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "General Mills", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The text mentions New York Stock Exchange which is a stock exchange."], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Great Bitter Lake", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "H World Group Limited", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['London Stock Exchange']"], "ObjectEntitiesID": ["['Q11447']"]}
+{"SubjectEntity": "Java", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Kor\u010dula", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Montserrat", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Niger", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Algeria', 'Benin', 'Burkina F']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Osmanl\u0131 Stadyumu in Ankara", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Robinson Crusoe Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Samuel Ogbemudia Stadium in Benin City", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Slatinn\u00e9 l\u00e1zn\u011b T\u0159ebo\u0148", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The input is No, which does not contain any stock exchanges. Therefore"], "ObjectEntitiesID": ["Q100075 is not a correct answer."]}
+{"SubjectEntity": "Switzerland", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Tajikistan", "Relation": "countryLandBordersCountry", "ObjectEntities": ["(your response, with the values that appear 2 or more times)"], "ObjectEntitiesID": ["Q1048284 Q100075"]}
+{"SubjectEntity": "Tofiq Ismayilov Stadium in Baku", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "UEFA Team of the Year", "Relation": "awardWonBy", "ObjectEntities": [" Cristiano Ronaldo"], "ObjectEntitiesID": ["Q165184"]}
+{"SubjectEntity": "Union Bank Of Israel Ltd.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The text mentions Tel Aviv Stock Exchange, which is a stock exchange."], "ObjectEntitiesID": ["Q100075"]}

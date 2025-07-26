@@ -1,0 +1,469 @@
+{"SubjectEntity": "A.J. Simeon Stadium in North Carolina", "Relation": "hasCapacity", "ObjectEntities": [25000.0], "ObjectEntitiesID": [25000.0]}
+{"SubjectEntity": "Ablex Publishing", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0"], "ObjectEntitiesID": ["0"]}
+{"SubjectEntity": "Adel Emam", "Relation": "personHasCityOfDeath", "ObjectEntities": ["140000000000000"], "ObjectEntitiesID": ["Q3271846"]}
+{"SubjectEntity": "Adtranz", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Afghanistan", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q100075\nA: Q1000"]}
+{"SubjectEntity": "Agistri", "Relation": "hasArea", "ObjectEntities": [13.6], "ObjectEntitiesID": [13.6]}
+{"SubjectEntity": "Agneta Pleijel", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1913"], "ObjectEntitiesID": ["Q1530672"]}
+{"SubjectEntity": "Al Pacino", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Al-Jalaa Stadium in Damascus", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "Al-Zawraa Stadium in Baghdad", "Relation": "hasCapacity", "ObjectEntities": [45000.0], "ObjectEntitiesID": [45000.0]}
+{"SubjectEntity": "Alan Kay", "Relation": "personHasCityOfDeath", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q3473787"]}
+{"SubjectEntity": "Aleksandr Neumyvakin", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Aleksandr Proshkin", "Relation": "personHasCityOfDeath", "ObjectEntities": ["St. Petersburg, Russia"], "ObjectEntitiesID": ["Q125589"]}
+{"SubjectEntity": "Alessandra Melucco Vaccaro", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "All Nippon Airways", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1993"], "ObjectEntitiesID": ["Q1045284"]}
+{"SubjectEntity": "Allegiant Stadium in Clark County", "Relation": "hasCapacity", "ObjectEntities": [65000.0], "ObjectEntitiesID": [65000.0]}
+{"SubjectEntity": "Altium Limited", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Alumni Memorial Stadium in North Carolina", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Amager", "Relation": "hasArea", "ObjectEntities": [100.0], "ObjectEntitiesID": [100.0]}
+{"SubjectEntity": "American Legion Memorial Stadium in North Carolina", "Relation": "hasCapacity", "ObjectEntities": [40000.0], "ObjectEntitiesID": [40000.0]}
+{"SubjectEntity": "Amlin", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["40"], "ObjectEntitiesID": ["Q5767155"]}
+{"SubjectEntity": "Ammersee", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Amundi CR - Fond Investi\u010dn\u00edch P\u0159\u00edle\u017eitost\u00ed 7/2020, Amundi Czech Republic, investi\u010dn\u00ed spole\u010dnost, a.s", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["1"]}
+{"SubjectEntity": "Anafi", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Andros", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Aneityum", "Relation": "hasArea", "ObjectEntities": [185.5], "ObjectEntitiesID": [185.5]}
+{"SubjectEntity": "Angelo Rinaldi", "Relation": "personHasCityOfDeath", "ObjectEntities": ["New York City"], "ObjectEntitiesID": ["Q3093"]}
+{"SubjectEntity": "Angola", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Antoni Krauze", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1934"], "ObjectEntitiesID": ["Q172162"]}
+{"SubjectEntity": "Arena Amaz\u00f4nia in Amazonas", "Relation": "hasCapacity", "ObjectEntities": [45000.0], "ObjectEntitiesID": [45000.0]}
+{"SubjectEntity": "Argentina", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Chile, Bolivia, Paraguay, Brazil, and Uruguay"], "ObjectEntitiesID": ["Q2142539"]}
+{"SubjectEntity": "Arista Networks", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Armin Maiwald", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Astroturf Hockey Stadium in Ranchi", "Relation": "hasCapacity", "ObjectEntities": [12000.0], "ObjectEntitiesID": [12000.0]}
+{"SubjectEntity": "Attu Island", "Relation": "hasArea", "ObjectEntities": [1250.0], "ObjectEntitiesID": [1250.0]}
+{"SubjectEntity": "Austria", "Relation": "hasArea", "ObjectEntities": [83870.0], "ObjectEntitiesID": [83870.0]}
+{"SubjectEntity": "Awaji Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "BIOSTER", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q18705373"]}
+{"SubjectEntity": "BNP Paribas", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["2001-03-15"], "ObjectEntitiesID": ["Q4110365"]}
+{"SubjectEntity": "Baghdad FC Stadium in Baghdad", "Relation": "hasCapacity", "ObjectEntities": [25000.0], "ObjectEntitiesID": [25000.0]}
+{"SubjectEntity": "Balboa Stadium in California", "Relation": "hasCapacity", "ObjectEntities": [18000.0], "ObjectEntitiesID": [18000.0]}
+{"SubjectEntity": "Ballon d'Or", "Relation": "awardWonBy", "ObjectEntities": ["10"], "ObjectEntitiesID": ["Q18435"]}
+{"SubjectEntity": "Bangladesh Cement Manufacturers Association", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q1872375"]}
+{"SubjectEntity": "Bank Panin Dubai Syariah", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["2013"], "ObjectEntitiesID": ["Q1140303"]}
+{"SubjectEntity": "Barents\u00f8ya", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Barren Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Basina Kloos", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1982"], "ObjectEntitiesID": ["Q1743347"]}
+{"SubjectEntity": "Bassas da India", "Relation": "hasArea", "ObjectEntities": [4000000.0], "ObjectEntitiesID": [4000000.0]}
+{"SubjectEntity": "Battery Expert", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Bearcat Stadium in Missouri", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Belgium", "Relation": "countryLandBordersCountry", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q2797924"]}
+{"SubjectEntity": "Belitung Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Belize", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Benteng Stadium in Tangerang", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Berit M\u00f8rdre Lammedal", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Betsson", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Bikash Bhattacharjee", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1994"], "ObjectEntitiesID": ["Q1853074"]}
+{"SubjectEntity": "Bi\u0161evo", "Relation": "hasArea", "ObjectEntities": [9.39], "ObjectEntitiesID": [9.39]}
+{"SubjectEntity": "Bolivia", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Argentina"], "ObjectEntitiesID": ["Q1001452"]}
+{"SubjectEntity": "Botswana", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Namibia"], "ObjectEntitiesID": ["Q142860"]}
+{"SubjectEntity": "Bridgeforth Stadium and Zane Showker Field in Virginia", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "Broadmeadow Basketball Stadium in New South Wales", "Relation": "hasCapacity", "ObjectEntities": [3000.0], "ObjectEntitiesID": [3000.0]}
+{"SubjectEntity": "Bulat Minzhilkiev", "Relation": "personHasCityOfDeath", "ObjectEntities": ["Almaty"], "ObjectEntitiesID": ["Q1022793"]}
+{"SubjectEntity": "Buru Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Burundi", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Burwill Holdings Limited", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Bylot Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "CHINNEY ALLIANCE GROUP", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "CIMIC Group", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Cadet Memorial Field in Connecticut", "Relation": "hasCapacity", "ObjectEntities": [16000.0], "ObjectEntitiesID": [16000.0]}
+{"SubjectEntity": "Camping World", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["Nasdaq"], "ObjectEntitiesID": ["Q275272"]}
+{"SubjectEntity": "Canada", "Relation": "countryLandBordersCountry", "ObjectEntities": [" United States of America"], "ObjectEntitiesID": ["Q2342415"]}
+{"SubjectEntity": "Carlos Goberna", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Castel\u00e3o in Fortaleza", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Cat Island", "Relation": "hasArea", "ObjectEntities": [119.1], "ObjectEntitiesID": [119.1]}
+{"SubjectEntity": "Catanduanes", "Relation": "hasArea", "ObjectEntities": [1036.0], "ObjectEntitiesID": [1036.0]}
+{"SubjectEntity": "Century Lotus Stadium in Foshan", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Changwon Stadium in Changwon", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Chatham Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Chile", "Relation": "countryLandBordersCountry", "ObjectEntities": ["2016-11-20"], "ObjectEntitiesID": ["Q1845459"]}
+{"SubjectEntity": "Christy Mathewson\u2013Memorial Stadium in Pennsylvania", "Relation": "hasCapacity", "ObjectEntities": [45000.0], "ObjectEntitiesID": [45000.0]}
+{"SubjectEntity": "Chubu Electric Power", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["20100419"], "ObjectEntitiesID": ["Q39239267"]}
+{"SubjectEntity": "Ciro de Quadros", "Relation": "personHasCityOfDeath", "ObjectEntities": [" Rio de Janeiro"], "ObjectEntitiesID": ["Q116656"]}
+{"SubjectEntity": "Coldwater Creek", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Colombia", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q27864023\n\nOkay, let's tackle"]}
+{"SubjectEntity": "Community Field in Iowa", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Concordia Stadium in Montreal", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Cornwallis Island", "Relation": "hasArea", "ObjectEntities": [3.5], "ObjectEntitiesID": [3.5]}
+{"SubjectEntity": "Corregidor", "Relation": "hasArea", "ObjectEntities": [14.35], "ObjectEntitiesID": [14.35]}
+{"SubjectEntity": "Costa Rica", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Nicaragua"], "ObjectEntitiesID": ["Q2110738"]}
+{"SubjectEntity": "Cowboy Stadium in Louisiana", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Cuba", "Relation": "countryLandBordersCountry", "ObjectEntities": ["110"], "ObjectEntitiesID": ["Q110"]}
+{"SubjectEntity": "Cuba", "Relation": "hasArea", "ObjectEntities": [110860.0], "ObjectEntitiesID": [110860.0]}
+{"SubjectEntity": "Cyprus", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Turkey"], "ObjectEntitiesID": ["Q137966"]}
+{"SubjectEntity": "D-Wave Systems", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "D.H.A Football Stadium in Karachi", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "DOMITRUCK", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "DSC Hockey Stadium in Emirate of Dubai", "Relation": "hasCapacity", "ObjectEntities": [5500.0], "ObjectEntitiesID": [5500.0]}
+{"SubjectEntity": "Daegu Baseball Stadium in Daegu", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Daihatsu", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Dave Keon", "Relation": "personHasCityOfDeath", "ObjectEntities": [" Toronto"], "ObjectEntitiesID": ["Q35585"]}
+{"SubjectEntity": "Dazhou Xiwai Stadium in Dazhou", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "DeGol Field in Pennsylvania", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Denmark", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Germany"], "ObjectEntitiesID": ["Q218\n\nOkay, let's see. The user provided some"]}
+{"SubjectEntity": "Denmark", "Relation": "hasArea", "ObjectEntities": [42433.0], "ObjectEntitiesID": [42433.0]}
+{"SubjectEntity": "Deutsche Ost-Afrika Linie", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The Deutsche Ost-Afrika Linie (DEOAL) was a"], "ObjectEntitiesID": ["Q2660639"]}
+{"SubjectEntity": "Dieter Mertens", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1912"], "ObjectEntitiesID": ["Q218993"]}
+{"SubjectEntity": "Dietmar Hopp", "Relation": "personHasCityOfDeath", "ObjectEntities": ["Heilbronn"], "ObjectEntitiesID": ["Q123294"]}
+{"SubjectEntity": "Dynamics Research Corporation", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "E. Claiborne Robins Stadium in Virginia", "Relation": "hasCapacity", "ObjectEntities": [42000.0], "ObjectEntitiesID": [42000.0]}
+{"SubjectEntity": "Ecuador", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Ecuador", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Edmund White", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Edward Soja", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Egbert Mulder", "Relation": "personHasCityOfDeath", "ObjectEntities": ["Netherlands"], "ObjectEntitiesID": ["Q202"]}
+{"SubjectEntity": "Egypt", "Relation": "hasArea", "ObjectEntities": [1001458.0], "ObjectEntitiesID": [1001458.0]}
+{"SubjectEntity": "Elba", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Eleuthera", "Relation": "hasArea", "ObjectEntities": [143.0], "ObjectEntitiesID": [143.0]}
+{"SubjectEntity": "Elsa Peretti", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Enbridge", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Endre Bojt\u00e1r", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Energen", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Erie Railroad", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0"], "ObjectEntitiesID": ["0"]}
+{"SubjectEntity": "Eritrea", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Erna Brodber", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1985"], "ObjectEntitiesID": ["Q123727"]}
+{"SubjectEntity": "Estadio Cementos Progreso in Guatemala City", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Estadio Iv\u00e1n El\u00edas Moreno in Lima", "Relation": "hasCapacity", "ObjectEntities": [45000.0], "ObjectEntitiesID": [45000.0]}
+{"SubjectEntity": "Estadio Parque Capurro in Montevideo", "Relation": "hasCapacity", "ObjectEntities": [23000.0], "ObjectEntitiesID": [23000.0]}
+{"SubjectEntity": "Estadio Revoluci\u00f3n Ciudad de Guatemala in Guatemala City", "Relation": "hasCapacity", "ObjectEntities": [42000.0], "ObjectEntitiesID": [42000.0]}
+{"SubjectEntity": "Estadio San Carlos de Apoquindo in Santiago", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Estadio de Vallehermoso in Madrid", "Relation": "hasCapacity", "ObjectEntities": [45000.0], "ObjectEntitiesID": [45000.0]}
+{"SubjectEntity": "Estonia", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Est\u00e1dio Ismael Benigno in Manaus", "Relation": "hasCapacity", "ObjectEntities": [25000.0], "ObjectEntitiesID": [25000.0]}
+{"SubjectEntity": "Est\u00e1dio Juscelino Kubitschek de Oliveira in Belo Horizonte", "Relation": "hasCapacity", "ObjectEntities": [45000.0], "ObjectEntitiesID": [45000.0]}
+{"SubjectEntity": "Est\u00e1dio dos Eucaliptos in Porto Alegre", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "Est\u00e1dio \u00c1lvaro Maranh\u00e3o in Amazonas", "Relation": "hasCapacity", "ObjectEntities": [45000.0], "ObjectEntitiesID": [45000.0]}
+{"SubjectEntity": "Ethiopia", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "FAI Gold Air Medal", "Relation": "awardWonBy", "ObjectEntities": ["1914-1918"], "ObjectEntitiesID": ["Q21333313"]}
+{"SubjectEntity": "Falabella", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["100000000000000"], "ObjectEntitiesID": ["Q2342496"]}
+{"SubjectEntity": "Farfetch", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Ferro Carril Oeste Stadium in Buenos Aires", "Relation": "hasCapacity", "ObjectEntities": [32000.0], "ObjectEntitiesID": [32000.0]}
+{"SubjectEntity": "Fields medal", "Relation": "awardWonBy", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Fiji", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Australia"], "ObjectEntitiesID": ["Q30"]}
+{"SubjectEntity": "Finland", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q23382663"]}
+{"SubjectEntity": "Finland", "Relation": "hasArea", "ObjectEntities": [338145.0], "ObjectEntitiesID": [338145.0]}
+{"SubjectEntity": "Foxconn", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0.97"], "ObjectEntitiesID": ["0.97"]}
+{"SubjectEntity": "Frank Eck Stadium in Indiana", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "Frans Molenaar", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Fran\u00e7ois Piquet", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Frederick Brownell", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1845"], "ObjectEntitiesID": ["Q2119533"]}
+{"SubjectEntity": "Friedman's Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q1109416"]}
+{"SubjectEntity": "Fulbright Prize", "Relation": "awardWonBy", "ObjectEntities": ["1985"], "ObjectEntitiesID": ["Q2984734"]}
+{"SubjectEntity": "GD Power Development Company", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["1"]}
+{"SubjectEntity": "Gaddafi Stadium in Lahore", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Galena Park ISD Stadium in Texas", "Relation": "hasCapacity", "ObjectEntities": [7500.0], "ObjectEntitiesID": [7500.0]}
+{"SubjectEntity": "General Mills", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1999-10-28"], "ObjectEntitiesID": ["Q5242875"]}
+{"SubjectEntity": "Gennady Vasilyev", "Relation": "personHasCityOfDeath", "ObjectEntities": ["141127"], "ObjectEntitiesID": ["Q141127"]}
+{"SubjectEntity": "George Akerlof", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "George R. Christmas", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Georgia", "Relation": "countryLandBordersCountry", "ObjectEntities": [" [answer]"], "ObjectEntitiesID": ["Q2177832\nA: Q217"]}
+{"SubjectEntity": "Germany", "Relation": "countryLandBordersCountry", "ObjectEntities": ["31"], "ObjectEntitiesID": ["Q1861435"]}
+{"SubjectEntity": "Global Telecom Holding", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q20438623"]}
+{"SubjectEntity": "Godfrey Hewitt", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Grand Baoxin Auto Group Limited", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0.52"], "ObjectEntitiesID": ["0.52"]}
+{"SubjectEntity": "Great Bitter Lake", "Relation": "hasArea", "ObjectEntities": [240.0], "ObjectEntitiesID": [240.0]}
+{"SubjectEntity": "Grenada", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Groote Eylandt", "Relation": "hasArea", "ObjectEntities": [13480.0], "ObjectEntitiesID": [13480.0]}
+{"SubjectEntity": "Guinea", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Gwangju Mudeung Stadium in Gwangju", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "H World Group Limited", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Haihe Educational Football Stadium in Tianjin", "Relation": "hasCapacity", "ObjectEntities": [18000.0], "ObjectEntitiesID": [18000.0]}
+{"SubjectEntity": "Haiti", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Halliburton", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1984-03-18"], "ObjectEntitiesID": ["Q1250231"]}
+{"SubjectEntity": "Hamad bin Khalifa Stadium in Doha", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Hancock Stadium in Illinois", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Hans-Olaf Henkel", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Harald Gerlach", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1994"], "ObjectEntitiesID": ["Q199422"]}
+{"SubjectEntity": "Hariton Pushwagner", "Relation": "personHasCityOfDeath", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q2770314"]}
+{"SubjectEntity": "Harlen C. Hunter Stadium in Missouri", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "Heimaey", "Relation": "hasArea", "ObjectEntities": [51.0], "ObjectEntitiesID": [51.0]}
+{"SubjectEntity": "Heinz Rudolf Sonntag", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1933-05-06"], "ObjectEntitiesID": ["Q4446796"]}
+{"SubjectEntity": "Herbert Joos", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Herndon Stadium in Georgia", "Relation": "hasCapacity", "ObjectEntities": [5000.0], "ObjectEntitiesID": [5000.0]}
+{"SubjectEntity": "HoHoKam Stadium in Arizona", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Hormuz Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Huahine", "Relation": "hasArea", "ObjectEntities": [165.9], "ObjectEntitiesID": [165.9]}
+{"SubjectEntity": "IDP Education", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "ING Group", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Ibn-e-Qasim Bagh Stadium in Multan", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "Idaho Botanical Garden", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0"], "ObjectEntitiesID": ["0"]}
+{"SubjectEntity": "Igor Chkola", "Relation": "personHasCityOfDeath", "ObjectEntities": ["\u0218tef\u0103ne\u0219ti"], "ObjectEntitiesID": ["Q1021356"]}
+{"SubjectEntity": "Ina May Gaskin", "Relation": "personHasCityOfDeath", "ObjectEntities": ["[no answer]"], "ObjectEntitiesID": ["[no answer]"]}
+{"SubjectEntity": "Independence Stadium in Lusaka", "Relation": "hasCapacity", "ObjectEntities": [16000.0], "ObjectEntitiesID": [16000.0]}
+{"SubjectEntity": "Indonesia", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Malaysia"], "ObjectEntitiesID": ["Q1008249"]}
+{"SubjectEntity": "Intact Financial", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q185307"]}
+{"SubjectEntity": "Iran Electronics Industries", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["111333311111111"], "ObjectEntitiesID": ["Q1055757"]}
+{"SubjectEntity": "Ireland", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Irwin Belk Track and Field Center/Transamerica Field in North Carolina", "Relation": "hasCapacity", "ObjectEntities": [5000.0], "ObjectEntitiesID": [5000.0]}
+{"SubjectEntity": "Isao Harimoto", "Relation": "personHasCityOfDeath", "ObjectEntities": [" Tokyo"], "ObjectEntitiesID": ["Q2494168"]}
+{"SubjectEntity": "Isla de los Estados", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Isle of Arran", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Isle of Bute", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Israel", "Relation": "hasArea", "ObjectEntities": [20300.0], "ObjectEntitiesID": [20300.0]}
+{"SubjectEntity": "JCDecaux", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["2013-01-04"], "ObjectEntitiesID": ["Q4226353"]}
+{"SubjectEntity": "JGC Holdings Corporation", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["1"]}
+{"SubjectEntity": "JYP Entertainment", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0"], "ObjectEntitiesID": ["0"]}
+{"SubjectEntity": "Jack Spinks Stadium in Mississippi", "Relation": "hasCapacity", "ObjectEntities": [11000.0], "ObjectEntitiesID": [11000.0]}
+{"SubjectEntity": "Jan Turski", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Java", "Relation": "hasArea", "ObjectEntities": [1995.0], "ObjectEntitiesID": [1995.0]}
+{"SubjectEntity": "Jeroen Brouwers", "Relation": "personHasCityOfDeath", "ObjectEntities": ["2000"], "ObjectEntitiesID": ["Q296488"]}
+{"SubjectEntity": "Jerry Richardson Stadium in North Carolina", "Relation": "hasCapacity", "ObjectEntities": [65000.0], "ObjectEntitiesID": [65000.0]}
+{"SubjectEntity": "Jiaxing Stadium in Jiaxing", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Joachim Gauck", "Relation": "personHasCityOfDeath", "ObjectEntities": ["2008-06-01"], "ObjectEntitiesID": ["Q21201306"]}
+{"SubjectEntity": "Joan Nestle", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1986"], "ObjectEntitiesID": ["Q298290"]}
+{"SubjectEntity": "Jochen Borchert", "Relation": "personHasCityOfDeath", "ObjectEntities": ["2005-08-18"], "ObjectEntitiesID": ["Q2388245"]}
+{"SubjectEntity": "John A. Farrell Stadium in Pennsylvania", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Jordan", "Relation": "hasArea", "ObjectEntities": [92300.0], "ObjectEntitiesID": [92300.0]}
+{"SubjectEntity": "Josep Maria Benet i Jornet", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1890-05-16"], "ObjectEntitiesID": ["Q1230447"]}
+{"SubjectEntity": "Jos\u00e9 Luis G\u00f3mez", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "J\u016br\u014d Kara", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "KENOBI", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Karl Lennartz", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Kasos", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Kazakhstan", "Relation": "countryLandBordersCountry", "ObjectEntities": ["101"], "ObjectEntitiesID": ["Q4527936"]}
+{"SubjectEntity": "Kenya", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Tanzania, Uganda, South Sudan, Ethiopia, Somalia"], "ObjectEntitiesID": ["Q1052856"]}
+{"SubjectEntity": "King Abdullah Stadium in Amman", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Kiribati", "Relation": "countryLandBordersCountry", "ObjectEntities": ["1. Kiribati is a sovereign state in the Central"], "ObjectEntitiesID": ["Q1217587"]}
+{"SubjectEntity": "Klaus-Dieter Lehmann", "Relation": "personHasCityOfDeath", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q1867778"]}
+{"SubjectEntity": "Knipex", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["18.11.2013"], "ObjectEntitiesID": ["Q27680847"]}
+{"SubjectEntity": "Ko Pha-ngan", "Relation": "hasArea", "ObjectEntities": [142.0], "ObjectEntitiesID": [142.0]}
+{"SubjectEntity": "Kobe Central Stadium in Kobe", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "Kobe Steel", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["1"]}
+{"SubjectEntity": "Koninklijke Philips NV", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [" Euronext Amsterdam"], "ObjectEntitiesID": ["Q1258006"]}
+{"SubjectEntity": "Konrad Rufus M\u00fcller", "Relation": "personHasCityOfDeath", "ObjectEntities": ["2435757"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Korean Air", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0.725"], "ObjectEntitiesID": ["0.725"]}
+{"SubjectEntity": "Kor\u010dula", "Relation": "hasArea", "ObjectEntities": [133.16], "ObjectEntitiesID": [133.16]}
+{"SubjectEntity": "Kosovo", "Relation": "hasArea", "ObjectEntities": [10908.0], "ObjectEntitiesID": [10908.0]}
+{"SubjectEntity": "Kumar Bhattacharyya, Baron Bhattacharyya", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Kythira", "Relation": "hasArea", "ObjectEntities": [1155.0], "ObjectEntitiesID": [1155.0]}
+{"SubjectEntity": "Lake Balkhash", "Relation": "hasArea", "ObjectEntities": [180000.0], "ObjectEntitiesID": [180000.0]}
+{"SubjectEntity": "Lake Baringo", "Relation": "hasArea", "ObjectEntities": [238.0], "ObjectEntitiesID": [238.0]}
+{"SubjectEntity": "Lake Iseo", "Relation": "hasArea", "ObjectEntities": [110.0], "ObjectEntitiesID": [110.0]}
+{"SubjectEntity": "Lake Manasarovar", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Lake Michigan", "Relation": "hasArea", "ObjectEntities": [230000000000000.0], "ObjectEntitiesID": [230000000000000.0]}
+{"SubjectEntity": "Lake Starnberg", "Relation": "hasArea", "ObjectEntities": [105.4], "ObjectEntitiesID": [105.4]}
+{"SubjectEntity": "Lake Victoria", "Relation": "hasArea", "ObjectEntities": [55800.0], "ObjectEntitiesID": [55800.0]}
+{"SubjectEntity": "Lasse \u00c5berg", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1946-12-05"], "ObjectEntitiesID": ["Q12460041"]}
+{"SubjectEntity": "League Stadium in Indiana", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Lebanon", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q5361567"]}
+{"SubjectEntity": "Liberia", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Liechtenstein", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q3581532"]}
+{"SubjectEntity": "Linde Group", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Link Motion Inc", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Liudmila Belavenets", "Relation": "personHasCityOfDeath", "ObjectEntities": ["2000"], "ObjectEntitiesID": ["Q2297335"]}
+{"SubjectEntity": "Luis Valdez", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1944"], "ObjectEntitiesID": ["Q1224154"]}
+{"SubjectEntity": "Luther \"Nick\" Jeralds Stadium in North Carolina", "Relation": "hasCapacity", "ObjectEntities": [23000.0], "ObjectEntitiesID": [23000.0]}
+{"SubjectEntity": "Luxembourg", "Relation": "countryLandBordersCountry", "ObjectEntities": [" France"], "ObjectEntitiesID": ["Q227862"]}
+{"SubjectEntity": "Lyudmila Shishova", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1949"], "ObjectEntitiesID": ["Q3980034"]}
+{"SubjectEntity": "MONEY3 CORPORATION LIMITED", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "MOSAD LOGISTIK", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Macau", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Mactan", "Relation": "hasArea", "ObjectEntities": [45.867], "ObjectEntitiesID": [45.867]}
+{"SubjectEntity": "Madeira", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Magna International", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1998-12-10"], "ObjectEntitiesID": ["Q3738673"]}
+{"SubjectEntity": "Maktoum Bin Rashid Al Maktoum Stadium in Emirate of Dubai", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Mallorca", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Mangareva", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Manuli Hydraulics Europe", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Marianna Rumjantseva", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1918"], "ObjectEntitiesID": ["Q1435425"]}
+{"SubjectEntity": "Martin Family Stadium in Virginia", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Mauritius", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q6275737"]}
+{"SubjectEntity": "Maxilivres", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["14.37"], "ObjectEntitiesID": ["Q23594952"]}
+{"SubjectEntity": "McAndrew Stadium in Illinois", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "McBride plc", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "McColl's", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Medion Impex", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q178061"]}
+{"SubjectEntity": "Michael Rose", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Mika Stadium in Yerevan", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Mike Hailwood", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Milan Lasica", "Relation": "personHasCityOfDeath", "ObjectEntities": ["Sarajevo"], "ObjectEntitiesID": ["Q249106"]}
+{"SubjectEntity": "Milos", "Relation": "hasArea", "ObjectEntities": [115000000000000.0], "ObjectEntitiesID": [115000000000000.0]}
+{"SubjectEntity": "MindMed", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Mirjam Pressler", "Relation": "personHasCityOfDeath", "ObjectEntities": [" Berlin"], "ObjectEntitiesID": ["Q100574"]}
+{"SubjectEntity": "Moldova", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Ukraine, Romania"], "ObjectEntitiesID": ["Q1148233"]}
+{"SubjectEntity": "Moloka\u02bbi", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Monaco", "Relation": "countryLandBordersCountry", "ObjectEntities": ["France"], "ObjectEntitiesID": ["Q410"]}
+{"SubjectEntity": "Moraine Lake", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Moravsk\u00e9 kov\u00e1rny", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Morningstar, Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1998-07-07"], "ObjectEntitiesID": ["Q2984926"]}
+{"SubjectEntity": "Morocco", "Relation": "hasArea", "ObjectEntities": [754420.0], "ObjectEntitiesID": [754420.0]}
+{"SubjectEntity": "Murdock Stadium in California", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Myanmar", "Relation": "countryLandBordersCountry", "ObjectEntities": ["China, India, Laos, Thailand"], "ObjectEntitiesID": ["Q1098532"]}
+{"SubjectEntity": "M\u0101ris \u010caklais", "Relation": "personHasCityOfDeath", "ObjectEntities": [" Riga"], "ObjectEntitiesID": ["Q36817"]}
+{"SubjectEntity": "Namibia", "Relation": "hasArea", "ObjectEntities": [124660.0], "ObjectEntitiesID": [124660.0]}
+{"SubjectEntity": "Nantucket", "Relation": "hasArea", "ObjectEntities": [493.0], "ObjectEntitiesID": [493.0]}
+{"SubjectEntity": "Nautilus, Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q19070964"]}
+{"SubjectEntity": "Navarino Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Nebraska Field in Nebraska", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Netherlands", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Germany"], "ObjectEntitiesID": ["Q207"]}
+{"SubjectEntity": "New Ireland", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "New Zealand", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q3121049"]}
+{"SubjectEntity": "New \u0130zmir Stadium in \u0130zmir", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Nicaragua", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Honduras, Costa Rica"], "ObjectEntitiesID": ["Q11862724"]}
+{"SubjectEntity": "Nicca Chemical", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Niger", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Nigeria", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Nigeria", "Relation": "hasArea", "ObjectEntities": [923768.0], "ObjectEntitiesID": [923768.0]}
+{"SubjectEntity": "Nisa-\u00c7andybil Stadium in Ashgabat", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Nobel Prize in Physics", "Relation": "awardWonBy", "ObjectEntities": ["1905 Nobel Prize in Physics"], "ObjectEntitiesID": ["Q333445"]}
+{"SubjectEntity": "Nobel Prize in Physiology or Medicine", "Relation": "awardWonBy", "ObjectEntities": ["1923 Nobel Prize in Physiology or Medicine"], "ObjectEntitiesID": ["Q170844"]}
+{"SubjectEntity": "Nobuyoshi Araki", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1977"], "ObjectEntitiesID": ["Q172967"]}
+{"SubjectEntity": "Novadios", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q2101963"]}
+{"SubjectEntity": "Nury Halmammedov", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Ogle Stadium in Alabama", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Orange County Choppers", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["2012-06-19"], "ObjectEntitiesID": ["Q10614615"]}
+{"SubjectEntity": "Order of the Golden Fleece", "Relation": "awardWonBy", "ObjectEntities": ["1935"], "ObjectEntitiesID": ["Q171880"]}
+{"SubjectEntity": "Orlando Patterson", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1991"], "ObjectEntitiesID": ["Q1003816"]}
+{"SubjectEntity": "Osmanl\u0131 Stadyumu in Ankara", "Relation": "hasCapacity", "ObjectEntities": [55000.0], "ObjectEntitiesID": [55000.0]}
+{"SubjectEntity": "PACCO", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["2022-11-23"], "ObjectEntitiesID": ["Q19469691"]}
+{"SubjectEntity": "PC Transport Systems", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0"], "ObjectEntitiesID": ["0"]}
+{"SubjectEntity": "PCMC Hockey Stadium in Pune", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Pakistan", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Afghanistan"], "ObjectEntitiesID": ["Q133911"]}
+{"SubjectEntity": "Palm, Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["2003-03-20"], "ObjectEntitiesID": ["Q10788699"]}
+{"SubjectEntity": "Pandora A/S", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["3210"], "ObjectEntitiesID": ["Q529984"]}
+{"SubjectEntity": "Pangong Tso", "Relation": "hasArea", "ObjectEntities": [6080.0], "ObjectEntitiesID": [6080.0]}
+{"SubjectEntity": "Paraguay", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[Brazil, Bolivia, Argentina]"], "ObjectEntitiesID": ["Q1443842"]}
+{"SubjectEntity": "Paravani Lake", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Paul Wehrle", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1927"], "ObjectEntitiesID": ["Q193854"]}
+{"SubjectEntity": "Paulson Stadium in Georgia", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Pavel \u0160rut", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1897"], "ObjectEntitiesID": ["Q3166534"]}
+{"SubjectEntity": "Peter Eisenberg", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Peter Fonda", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1975-08-16"], "ObjectEntitiesID": ["Q1339033"]}
+{"SubjectEntity": "Pioneer Stadium in California", "Relation": "hasCapacity", "ObjectEntities": [32000.0], "ObjectEntitiesID": [32000.0]}
+{"SubjectEntity": "Poland", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Poveglia", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Premier League Player of the Season", "Relation": "awardWonBy", "ObjectEntities": ["2019-2020"], "ObjectEntitiesID": ["Q1861874"]}
+{"SubjectEntity": "Prysmian Group", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["18993"], "ObjectEntitiesID": ["Q18993"]}
+{"SubjectEntity": "Punathil Kunjabdulla", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1984"], "ObjectEntitiesID": ["Q103906"]}
+{"SubjectEntity": "Qatar", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Saudi Arabia"], "ObjectEntitiesID": ["Q204"]}
+{"SubjectEntity": "Qingdao Tiantai Stadium in Qingdao", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Railway Stadium in Lahore", "Relation": "hasCapacity", "ObjectEntities": [1.0], "ObjectEntitiesID": [1.0]}
+{"SubjectEntity": "Rautaruukki", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Ren\u00e9 Koering", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1997"], "ObjectEntitiesID": ["Q193289"]}
+{"SubjectEntity": "Republic of the Congo", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Ricky Nelson", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1978"], "ObjectEntitiesID": ["Q166224"]}
+{"SubjectEntity": "Robertson Stadium in Houston", "Relation": "hasCapacity", "ObjectEntities": [22000.0], "ObjectEntitiesID": [22000.0]}
+{"SubjectEntity": "Robinson Crusoe Island", "Relation": "hasArea", "ObjectEntities": [139.7], "ObjectEntitiesID": [139.7]}
+{"SubjectEntity": "Rosa Posada", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1930s"], "ObjectEntitiesID": ["Q190172"]}
+{"SubjectEntity": "Rote Island", "Relation": "hasArea", "ObjectEntities": [116.8], "ObjectEntitiesID": [116.8]}
+{"SubjectEntity": "Saaremaa", "Relation": "hasArea", "ObjectEntities": [3183.0], "ObjectEntitiesID": [3183.0]}
+{"SubjectEntity": "Saint John", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Saint Kitts", "Relation": "hasArea", "ObjectEntities": [191.0], "ObjectEntitiesID": [191.0]}
+{"SubjectEntity": "Saint Vincent", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Saint Vincent and the Grenadines", "Relation": "countryLandBordersCountry", "ObjectEntities": ["17"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Samuel Ogbemudia Stadium in Benin City", "Relation": "hasCapacity", "ObjectEntities": [25000.0], "ObjectEntitiesID": [25000.0]}
+{"SubjectEntity": "Saudi Arabia", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q19017084\n\nOkay, so I need"]}
+{"SubjectEntity": "Scholastic Corporation", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["30"], "ObjectEntitiesID": ["Q2956344"]}
+{"SubjectEntity": "Sergiusz Plewa", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1983"], "ObjectEntitiesID": ["Q1825994"]}
+{"SubjectEntity": "Seychelles", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Shaheed Bulu Stadium in Noakhali District", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Shaheed Salam Stadium in Feni District", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Shanghai Indoor Stadium in Shanghai", "Relation": "hasCapacity", "ObjectEntities": [16000.0], "ObjectEntitiesID": [16000.0]}
+{"SubjectEntity": "Sharks Stadium in Port Harcourt", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Sheikh Fazlul Haque Mani Stadium in Gopalganj District", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Shield On Service", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0"], "ObjectEntitiesID": ["0"]}
+{"SubjectEntity": "Sierra Leone", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["[answer]"]}
+{"SubjectEntity": "Siliwangi Stadium in Bandung", "Relation": "hasCapacity", "ObjectEntities": [40000.0], "ObjectEntitiesID": [40000.0]}
+{"SubjectEntity": "Sinar Mas Land", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1999-01-21"], "ObjectEntitiesID": ["Q19082631"]}
+{"SubjectEntity": "Singapore", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Malaysia"], "ObjectEntitiesID": ["Q103461"]}
+{"SubjectEntity": "Sint Maarten", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Slatinn\u00e9 l\u00e1zn\u011b T\u0159ebo\u0148", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["133791833213379"], "ObjectEntitiesID": ["Q13379183321337"]}
+{"SubjectEntity": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1"], "ObjectEntitiesID": ["Q1599846"]}
+{"SubjectEntity": "Sodexo", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Solomon Burke", "Relation": "personHasCityOfDeath", "ObjectEntities": ["22nd Street, Philadelphia, PA"], "ObjectEntitiesID": ["Q1048284"]}
+{"SubjectEntity": "Spain", "Relation": "countryLandBordersCountry", "ObjectEntities": ["France, Portugal, Andorra"], "ObjectEntitiesID": ["Q1438556"]}
+{"SubjectEntity": "Spartan Motors", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["19.25 (19.25) - but the"], "ObjectEntitiesID": ["Q100075 is the same as the previous answer,"]}
+{"SubjectEntity": "Spartan Municipal Stadium in Ohio", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Stan Mikita", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Stanley Black & Decker", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "State Printing Company", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0"], "ObjectEntitiesID": ["0"]}
+{"SubjectEntity": "Stewart Stadium in Utah", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Streymoy", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Sultan Qaboos Sports Complex in Muscat", "Relation": "hasCapacity", "ObjectEntities": [12000.0], "ObjectEntitiesID": [12000.0]}
+{"SubjectEntity": "Sumitomo Chemical", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Sun Hing Printing", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0"], "ObjectEntitiesID": ["0"]}
+{"SubjectEntity": "Sungui Sports Complex in Incheon", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "Suriname", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Sv\u00ednoy", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Switzerland", "Relation": "hasArea", "ObjectEntities": [41284.0], "ObjectEntitiesID": [41284.0]}
+{"SubjectEntity": "Symi", "Relation": "hasArea", "ObjectEntities": [120.0], "ObjectEntitiesID": [120.0]}
+{"SubjectEntity": "Syria", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q20721763"]}
+{"SubjectEntity": "S\u00e3o Jorge Island", "Relation": "hasArea", "ObjectEntities": [316.0], "ObjectEntitiesID": [316.0]}
+{"SubjectEntity": "S\u00e3o Tom\u00e9 and Pr\u00edncipe", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[answer]"], "ObjectEntitiesID": ["Q100075\n\nOkay, so I need to figure"]}
+{"SubjectEntity": "TOOL Werkzeugba", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Tajiat Olympic Stadium in Baghdad", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Tajikistan", "Relation": "countryLandBordersCountry", "ObjectEntities": ["150 words"], "ObjectEntitiesID": ["150 words"]}
+{"SubjectEntity": "Tama Home", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Tam\u00e1s Raj", "Relation": "personHasCityOfDeath", "ObjectEntities": ["Budapest"], "ObjectEntitiesID": ["Q36557"]}
+{"SubjectEntity": "Tanzania", "Relation": "hasArea", "ObjectEntities": [947300.0], "ObjectEntitiesID": [947300.0]}
+{"SubjectEntity": "Tapestry, Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Target Corporation", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["3M Company"], "ObjectEntitiesID": ["Q129751"]}
+{"SubjectEntity": "Taveuni", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Taymyr", "Relation": "hasArea", "ObjectEntities": [399000.0], "ObjectEntitiesID": [399000.0]}
+{"SubjectEntity": "Temple Stadium in Pennsylvania", "Relation": "hasCapacity", "ObjectEntities": [50000.0], "ObjectEntitiesID": [50000.0]}
+{"SubjectEntity": "Tengzhou Olympic Center Stadium in Tengzhou", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Thomas M. Disch", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1989"], "ObjectEntitiesID": ["Q2980166"]}
+{"SubjectEntity": "Thomas R. P. Mielke", "Relation": "personHasCityOfDeath", "ObjectEntities": ["2022-09-19"], "ObjectEntitiesID": ["Q26830170"]}
+{"SubjectEntity": "Thomas V. Draude", "Relation": "personHasCityOfDeath", "ObjectEntities": ["2009"], "ObjectEntitiesID": ["Q1181833"]}
+{"SubjectEntity": "Thresher Stadium in Kansas", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Time Person of the Year", "Relation": "awardWonBy", "ObjectEntities": ["2015"], "ObjectEntitiesID": ["Q11611245"]}
+{"SubjectEntity": "Tofiq Ismayilov Stadium in Baku", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Togo", "Relation": "countryLandBordersCountry", "ObjectEntities": ["1970-12-31"], "ObjectEntitiesID": ["Q3810274"]}
+{"SubjectEntity": "Tokmanni", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1994-04-27"], "ObjectEntitiesID": ["Q1897427"]}
+{"SubjectEntity": "Totoku Electric", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Tutuila", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "UEFA Team of the Year", "Relation": "awardWonBy", "ObjectEntities": ["1998"], "ObjectEntitiesID": ["Q1554234"]}
+{"SubjectEntity": "UTair Aviation", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Uganda", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Kenya"], "ObjectEntitiesID": ["Q187225"]}
+{"SubjectEntity": "Ukraine", "Relation": "countryLandBordersCountry", "ObjectEntities": ["100000000000000"], "ObjectEntitiesID": ["Q626055"]}
+{"SubjectEntity": "Union Bank Of Israel Ltd.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["0"], "ObjectEntitiesID": ["0"]}
+{"SubjectEntity": "United Arab Emirates", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Upolu", "Relation": "hasArea", "ObjectEntities": [545.144], "ObjectEntitiesID": [545.144]}
+{"SubjectEntity": "Uwe Timm", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1977"], "ObjectEntitiesID": ["Q1248673"]}
+{"SubjectEntity": "Uzbekistan", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Afghanistan"], "ObjectEntitiesID": ["Q133910"]}
+{"SubjectEntity": "VIRIBUS UNITIS - investi\u010dn\u00ed poradenstv\u00ed", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Valentina Sharykina", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1975"], "ObjectEntitiesID": ["Q296473"]}
+{"SubjectEntity": "Valeriu Pantazi", "Relation": "personHasCityOfDeath", "ObjectEntities": ["\u0218tef\u0103ne\u0219ti"], "ObjectEntitiesID": ["Q1149997"]}
+{"SubjectEntity": "Valery Grigorievich Sushko", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1998"], "ObjectEntitiesID": ["Q177350"]}
+{"SubjectEntity": "Vasil Tatsiy", "Relation": "personHasCityOfDeath", "ObjectEntities": [" Vasil Tatsiy's city of death is unknown.  Please verify"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Vasyl Iv\u00e1novich Popadyuk", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1995"], "ObjectEntitiesID": ["Q184499"]}
+{"SubjectEntity": "Vatican City", "Relation": "countryLandBordersCountry", "ObjectEntities": ["380"], "ObjectEntitiesID": ["Q1951864"]}
+{"SubjectEntity": "Vatican City", "Relation": "hasArea", "ObjectEntities": [440.0], "ObjectEntitiesID": [440.0]}
+{"SubjectEntity": "Veerappa Moily", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Veikko Kankkonen", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1999"], "ObjectEntitiesID": ["Q211494"]}
+{"SubjectEntity": "Ven", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Vicente Fern\u00e1ndez", "Relation": "personHasCityOfDeath", "ObjectEntities": [" Guadalajara"], "ObjectEntitiesID": ["Q135598"]}
+{"SubjectEntity": "Victoria Island", "Relation": "hasArea", "ObjectEntities": [192.5], "ObjectEntitiesID": [192.5]}
+{"SubjectEntity": "Vietnam", "Relation": "countryLandBordersCountry", "ObjectEntities": ["China, Laos, Cambodia, and the South China Sea"], "ObjectEntitiesID": ["Q3047835"]}
+{"SubjectEntity": "Vivald\u00e3o in Amazonas", "Relation": "hasCapacity", "ObjectEntities": [43160.0], "ObjectEntitiesID": [43160.0]}
+{"SubjectEntity": "Vladimir Magomedovich Semyonov", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1978"], "ObjectEntitiesID": ["Q1681835"]}
+{"SubjectEntity": "Vladimir Yurzinov", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Vrt\u00e1ky", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Vyacheslav Starshinov", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Wan Kei Group", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1994-05-19"], "ObjectEntitiesID": ["Q4690726"]}
+{"SubjectEntity": "Warner Bros. Home Entertainment", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Welling Holding Limited", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["3000000000"], "ObjectEntitiesID": ["Q4285496"]}
+{"SubjectEntity": "Wellington Island", "Relation": "hasArea", "ObjectEntities": [0.38], "ObjectEntitiesID": [0.38]}
+{"SubjectEntity": "West Island", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "West Japan Railway Company", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["2018-01-23"], "ObjectEntitiesID": ["Q19644951"]}
+{"SubjectEntity": "Western Sahara", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Morocco, Algeria, Mauritania"], "ObjectEntitiesID": ["Q1697837"]}
+{"SubjectEntity": "Western Stadium in Phnom Penh", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "Wilkerson-Sanders Memorial Stadium in Texas", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Yankee Stadium in The Bronx", "Relation": "hasCapacity", "ObjectEntities": [50000.0], "ObjectEntitiesID": [50000.0]}
+{"SubjectEntity": "Yefim Basin", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Yomiuri Giants Stadium in Kawasaki", "Relation": "hasCapacity", "ObjectEntities": [45000.0], "ObjectEntitiesID": [45000.0]}
+{"SubjectEntity": "Yonaguni", "Relation": "hasArea", "ObjectEntities": [3600.0], "ObjectEntitiesID": [3600.0]}
+{"SubjectEntity": "Yuri Koptev", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Yusuf Ziya \u00d6ni\u015f Stadium in Istanbul", "Relation": "hasCapacity", "ObjectEntities": [22500.0], "ObjectEntitiesID": [22500.0]}
+{"SubjectEntity": "Zakynthos", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Zbigniew Romaszewski", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1932-03-10"], "ObjectEntitiesID": ["Q5295245"]}
+{"SubjectEntity": "Zealand", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Zhongshan Sports Center Stadium in Guangdong", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Zimbabwe", "Relation": "countryLandBordersCountry", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Zimbabwe", "Relation": "hasArea", "ObjectEntities": [390756.0], "ObjectEntitiesID": [390756.0]}
+{"SubjectEntity": "Zsuzsa Vathy", "Relation": "personHasCityOfDeath", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "ams OSRAM AG", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["1998-06-05"], "ObjectEntitiesID": ["Q3363317"]}
+{"SubjectEntity": "cahoot", "Relation": "companyTradesAtStockExchange", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "jetBlue Park at Fenway South in Florida", "Relation": "hasCapacity", "ObjectEntities": [15000.0], "ObjectEntitiesID": [15000.0]}
+{"SubjectEntity": "\u015aniardwy", "Relation": "hasArea", "ObjectEntities": [], "ObjectEntitiesID": []}

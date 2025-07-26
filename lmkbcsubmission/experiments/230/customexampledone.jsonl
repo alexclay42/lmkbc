@@ -1,0 +1,14 @@
+{"SubjectEntity": "Argentina", "Relation": "countryLandBordersCountry", "ObjectEntities": ["[Bolivia, Brazil, Chile, Paraguay]"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Baghdad FC Stadium in Baghdad", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Est\u00e1dio dos Eucaliptos in Porto Alegre", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Gwangju Mudeung Stadium in Gwangju", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Moldova", "Relation": "countryLandBordersCountry", "ObjectEntities": ["(the text contains a list of countries: romania, ukraine, georgia, russia)"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "New Zealand", "Relation": "countryLandBordersCountry", "ObjectEntities": ["Australia, Cook Islands, French Polynesia, Ni"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Nisa-\u00c7andybil Stadium in Ashgabat", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Premier League Player of the Season", "Relation": "awardWonBy", "ObjectEntities": [" Mohamed Salah "], "ObjectEntitiesID": ["Q165143"]}
+{"SubjectEntity": "Sultan Qaboos Sports Complex in Muscat", "Relation": "hasCapacity", "ObjectEntities": [], "ObjectEntitiesID": []}
+{"SubjectEntity": "Tanzania", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Uganda ", " Rwanda"], "ObjectEntitiesID": ["Q136376", "Q150797"]}
+{"SubjectEntity": "Tapestry, Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["New York Stock Exchange"], "ObjectEntitiesID": ["Q131834"]}
+{"SubjectEntity": "Ukraine", "Relation": "countryLandBordersCountry", "ObjectEntities": ["(your response, with the values that appear 2 or more times)"], "ObjectEntitiesID": ["Q1048284 Q100075"]}
+{"SubjectEntity": "United Arab Emirates", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Oman ", " Qatar"], "ObjectEntitiesID": ["Q139237", "Q1443346"]}
+{"SubjectEntity": "Uzbekistan", "Relation": "countryLandBordersCountry", "ObjectEntities": [" Kazakhstan "], "ObjectEntitiesID": ["Q131996"]}
