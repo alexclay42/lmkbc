@@ -1,0 +1,81 @@
+{"SubjectEntity": "AAC Technologies Holdings Inc", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["002452.SZ"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Aga Khan Award for Architecture", "Relation": "awardWonBy", "ObjectEntities": ["['The Aga Khan Award', 'Architecture']"], "ObjectEntitiesID": ["Q1048284"]}
+{"SubjectEntity": "Alevtina Fedulova", "Relation": "personHasCityOfDeath", "ObjectEntities": ["1990-04-14"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Algeria", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Algeria', 'Morocco', 'Tunisia', 'Libya', 'Niger']"], "ObjectEntitiesID": ["['Q142',"]}
+{"SubjectEntity": "Antiguo can\u00f3dromo de Carabanchel in Madrid", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Azerbaijan", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Azerbaijan', 'Armenia', 'Georgia', 'Iran', 'Russia', 'Turkey']"], "ObjectEntitiesID": ["['Q11665',"]}
+{"SubjectEntity": "Banadir Stadium in Mogadishu", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Barombong Stadium in Makassar", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Best Female Tennis Player ESPY Award", "Relation": "awardWonBy", "ObjectEntities": ["['Serena Williams', 'Maria Sharapova', 'Simona Hale']", "['Venus Williams', 'Serena']"], "ObjectEntitiesID": ["Q100075", "Q100075"]}
+{"SubjectEntity": "Bourns, Inc.", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The text provided is simply \"NASDAQ\", which is a stock exchange. Therefore"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Brazil", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Brazil', 'Argentina', 'Peru', 'Colombia', 'Venezuela', 'Guy']"], "ObjectEntitiesID": ["['Q11913',"]}
+{"SubjectEntity": "Bridgestone", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Bridgestone', 'Japanese', 'Tokyo Stock Exchange']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Bulgaria", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Bulgaria', 'Greece', 'Romania', 'North Macedonia', 'Serbia']"], "ObjectEntitiesID": ["['Q1048284',"]}
+{"SubjectEntity": "Cameroon", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Cameroon', 'Chad', 'Central African Republic', 'Republic']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Chalerm Prakiat Klong 6 Stadium in Pathum Thani", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Chinlink International Holdings Limited", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Chinlink International Holdings Limited', 'Hong Kong Exchanges']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Color Line", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Color Line', 'Oslo Stock Exchange']"], "ObjectEntitiesID": ["['Q1048284',"]}
+{"SubjectEntity": "Democratic Republic of the Congo", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Democratic Republic', 'Congo', 'Angola', 'Burundi']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Don and Nona Williams Stadium in Wisconsin", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Dongdaemun Stadium in Seoul", "Relation": "hasCapacity", "ObjectEntities": [45000.0], "ObjectEntitiesID": [45000.0]}
+{"SubjectEntity": "Egypt", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Egypt', 'Libya', 'Sudan', 'Israel', 'Gaza Strip']"], "ObjectEntitiesID": ["['Q11384',"]}
+{"SubjectEntity": "Estadio Edgar Pe\u00f1a Gutierrez in Santa Cruz de la Sierra", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Estadio Jos\u00e9 P\u00e9rez Colmenares in Maracay", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Estadio Juan Carlos Dur\u00e1n in Santa Cruz de la Sierra", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Fairchild Semiconductor", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The text mentions the stock exchange \"NASDAQ\". Therefore, the extracted stock exchange"], "ObjectEntitiesID": ["NASDAQ"]}
+{"SubjectEntity": "France", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['France', 'Belgium', 'Germany', 'Luxembourg', 'Switzerland', 'Italy']"], "ObjectEntitiesID": ["['Q142',"]}
+{"SubjectEntity": "Future plc", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Future', 'British', 'London', 'England']"], "ObjectEntitiesID": ["Q1236439"]}
+{"SubjectEntity": "George A. Romero", "Relation": "personHasCityOfDeath", "ObjectEntities": ["The input text is a single year, 1978, which"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Gilles Villemure", "Relation": "personHasCityOfDeath", "ObjectEntities": ["['Montreal', 'Quebec', 'Canada']"], "ObjectEntitiesID": ["Q1138133"]}
+{"SubjectEntity": "Groupon", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The text provided is simply \"NASDAQ\", which is a well-known stock exchange", "The text provided is simply \"NASDAQ\", which is a stock exchange. Therefore"], "ObjectEntitiesID": ["Q131234", "Q100075"]}
+{"SubjectEntity": "Harley-Davidson", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Harley', 'Davidson', 'New York Stock Exchange']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Honduras", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Honduras', 'Belize', 'El Salvador', 'Guatemala', 'Nicaragua']"], "ObjectEntitiesID": ["['Q10685',"]}
+{"SubjectEntity": "Hungary", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Hungary', 'Austria', 'Slovakia']"], "ObjectEntitiesID": ["['Q10017',"]}
+{"SubjectEntity": "Hydro One", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Hydro One', 'Toronto Stock Exchange']"], "ObjectEntitiesID": ["Q1048284"]}
+{"SubjectEntity": "Iran", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Iran', 'Afghanistan', 'Armenia', 'Azerbaijan', 'Bahrain', 'Iraq']"], "ObjectEntitiesID": ["['Q131967',"]}
+{"SubjectEntity": "Italy", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['France', 'Switzerland', 'Austria', 'Slovenia', 'Vatican City']"], "ObjectEntitiesID": ["['Q142',"]}
+{"SubjectEntity": "Jamaica", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Cuba', 'Haiti', 'Dominican Republic']"], "ObjectEntitiesID": ["['Q1034',"]}
+{"SubjectEntity": "Kamal \u018fhm\u0259dov", "Relation": "personHasCityOfDeath", "ObjectEntities": ["Baku"], "ObjectEntitiesID": ["Q123393"]}
+{"SubjectEntity": "Kosovo", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Albania', 'Bosnia', 'Herzegovina', 'Croatia', 'Greece', 'North Macedonia']"], "ObjectEntitiesID": ["['Q100075',"]}
+{"SubjectEntity": "Kuwait", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Kuwait', 'Saudi Arabia', 'Iraq']"], "ObjectEntitiesID": ["['Q134423',"]}
+{"SubjectEntity": "Lake Huron", "Relation": "hasArea", "ObjectEntities": [59600.0], "ObjectEntitiesID": [59600.0]}
+{"SubjectEntity": "Lake Rakshastal", "Relation": "hasArea", "ObjectEntities": [1000.0], "ObjectEntitiesID": [1000.0]}
+{"SubjectEntity": "Lake of the Woods", "Relation": "hasArea", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Lebak Bulus Stadium in Jakarta", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Libya", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Algeria', 'Chad', 'Egypt']"], "ObjectEntitiesID": ["['Q142',"]}
+{"SubjectEntity": "Lithuania", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Lithuania', 'Belarus', 'Latvia', 'Poland', 'Russia']"], "ObjectEntitiesID": ["['Q10017',"]}
+{"SubjectEntity": "MNP Park in Ottawa", "Relation": "hasCapacity", "ObjectEntities": [10000.0], "ObjectEntitiesID": [10000.0]}
+{"SubjectEntity": "Mali", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Mali', 'Algeria', 'Burkina Faso']"], "ObjectEntitiesID": ["['Q12273',"]}
+{"SubjectEntity": "New Plaza Stadium in Foshan", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Obafemi Awolowo Stadium in Ibadan", "Relation": "hasCapacity", "ObjectEntities": [45000.0], "ObjectEntitiesID": [45000.0]}
+{"SubjectEntity": "PQube", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The text mentions \"NASDAQ\" as a stock exchange. Therefore, the extracted"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Papua New Guinea", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Indonesia', 'Australia', 'Solomon Islands']"], "ObjectEntitiesID": ["['Q131977',"]}
+{"SubjectEntity": "Peru", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Peru', 'Chile', 'Brazil', 'Ecuador', 'Colombia', 'Bolivia']"], "ObjectEntitiesID": ["['Q10507',"]}
+{"SubjectEntity": "Plaza de toros Monumental de Maracaibo in Municipio Maracaibo", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Pulitzer Prize for Biography", "Relation": "awardWonBy", "ObjectEntities": ["1938, 1940, 194"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Regeneron Pharmaceuticals", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Regeneron Pharmaceuticals', 'Inc']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Rosneft", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Rosneft', 'Moscow Stock Exchange']", "['Rosneft', 'Russia', 'Moscow']"], "ObjectEntitiesID": ["Q100075", "Q1316689"]}
+{"SubjectEntity": "Rwanda", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Rwanda', 'Burundi', 'Congo', 'Democratic Republic']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Samara Arena in Samara", "Relation": "hasCapacity", "ObjectEntities": [30000.0], "ObjectEntitiesID": [30000.0]}
+{"SubjectEntity": "Shahid Shiroudi Stadium in Tehran", "Relation": "hasCapacity", "ObjectEntities": [40000.0], "ObjectEntitiesID": [40000.0]}
+{"SubjectEntity": "Slovenia", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Slovenia', 'Austria', 'Croatia', 'Hungary', 'Italy', 'North']"], "ObjectEntitiesID": ["['Q101234',"]}
+{"SubjectEntity": "South Korea", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['South Korea', 'China', 'North Korea', 'Japan']"], "ObjectEntitiesID": ["['Q122544',"]}
+{"SubjectEntity": "South Sudan", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Sudan', 'Central African Republic', 'Democratic Republic']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Stade 1er Novembre 1954 in Algiers", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Stade Sidi Bernoussi in Casablanca", "Relation": "hasCapacity", "ObjectEntities": [20000.0], "ObjectEntitiesID": [20000.0]}
+{"SubjectEntity": "Switzerland", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Switzerland', 'Austria', 'France', 'Germany', 'Italy', 'Lie']"], "ObjectEntitiesID": ["['Q100075',"]}
+{"SubjectEntity": "TD Ameritrade", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["The text mentions \"NASDAQ\" which is a well-known stock exchange. Therefore", "The text provided is simply \"NASDAQ\", which is a stock exchange. Therefore"], "ObjectEntitiesID": ["Q100075", "Q100075"]}
+{"SubjectEntity": "Telrad Networks Ltd", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['Telrad Networks Ltd', 'Tel Aviv Stock Exchange']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Thailand", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Thailand', 'Cambodia', 'Laos', 'Malaysia', 'Myanmar', 'China']"], "ObjectEntitiesID": ["['Q100075',"]}
+{"SubjectEntity": "Tony Tan Keng Yam", "Relation": "personHasCityOfDeath", "ObjectEntities": ["['Tony Tan Keng Yam', 'Singapore']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Uladzimir Basalyha", "Relation": "personHasCityOfDeath", "ObjectEntities": ["['Uladzimir Basalyha', 'Minsk']"], "ObjectEntitiesID": ["Q1048284"]}
+{"SubjectEntity": "United Aircraft Corporation", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["['United Aircraft Corporation', 'New York Stock Exchange']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "United States", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['United States', 'Canada', 'Mexico', 'Belize']"], "ObjectEntitiesID": ["['Q100075',"]}
+{"SubjectEntity": "Venezuela", "Relation": "hasArea", "ObjectEntities": [912000.0], "ObjectEntitiesID": [912000.0]}
+{"SubjectEntity": "Veronica P. Kruglova", "Relation": "personHasCityOfDeath", "ObjectEntities": ["[]"], "ObjectEntitiesID": ["[]"]}
+{"SubjectEntity": "Vietnam", "Relation": "hasArea", "ObjectEntities": [329559.92], "ObjectEntitiesID": [329559.92]}
+{"SubjectEntity": "Virgil Og\u0103\u0219anu", "Relation": "personHasCityOfDeath", "ObjectEntities": ["\u0218tef\u0103ne\u0219ti"], "ObjectEntitiesID": ["Q1048284"]}
+{"SubjectEntity": "Vladimir Zhitlov", "Relation": "personHasCityOfDeath", "ObjectEntities": ["Vladimir Zhitlov"], "ObjectEntitiesID": ["Q1048284"]}
+{"SubjectEntity": "Yemen", "Relation": "countryLandBordersCountry", "ObjectEntities": ["['Yemen', 'Arabian Peninsula', 'Saudi']"], "ObjectEntitiesID": ["Q100075"]}
+{"SubjectEntity": "Yury Yershov", "Relation": "personHasCityOfDeath", "ObjectEntities": ["['Yury Yershov', 'Moscow']"], "ObjectEntitiesID": ["Q1048284"]}
+{"SubjectEntity": "o.tel.o", "Relation": "companyTradesAtStockExchange", "ObjectEntities": ["Euronext Paris"], "ObjectEntitiesID": ["Q100075"]}

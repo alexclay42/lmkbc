@@ -1,0 +1,531 @@
+	entity	rel	tail
+0	DSC Hockey Stadium in Emirate of Dubai	hasCapacity	"[""DSC Hockey Stadium"", ""Emirate of Dubai"", ""Capacity #"
+1	Ferro Carril Oeste Stadium in Buenos Aires	hasCapacity	25000
+2	Ferro Carril Oeste Stadium in Buenos Aires	hasCapacity	25000
+3	Ferro Carril Oeste Stadium in Buenos Aires	hasCapacity	25000
+4	Ferro Carril Oeste Stadium in Buenos Aires	hasCapacity	30000
+5	Ferro Carril Oeste Stadium in Buenos Aires	hasCapacity	25000
+6	Ferro Carril Oeste Stadium in Buenos Aires	hasCapacity	25000
+7	Ferro Carril Oeste Stadium in Buenos Aires	hasCapacity	30000
+8	Ferro Carril Oeste Stadium in Buenos Aires	hasCapacity	25000
+9	Solomon Burke	personHasCityOfDeath	none
+10	Solomon Burke	personHasCityOfDeath	none
+11	Namibia	hasArea	825615
+12	Namibia	hasArea	825615
+13	Namibia	hasArea	825615
+14	Namibia	hasArea	825615
+15	Namibia	hasArea	825615
+16	Namibia	hasArea	825615
+17	Great Bitter Lake	hasArea	13.8
+18	Great Bitter Lake	hasArea	10.9
+19	Great Bitter Lake	hasArea	11.3
+20	Great Bitter Lake	hasArea	12.5
+21	Astroturf Hockey Stadium in Ranchi	hasCapacity	['Capacity #']
+22	Astroturf Hockey Stadium in Ranchi	hasCapacity	['Capacity #']
+23	Astroturf Hockey Stadium in Ranchi	hasCapacity	['Capacity #']
+24	State Printing Company	companyTradesAtStockExchange	none
+25	State Printing Company	companyTradesAtStockExchange	none
+26	State Printing Company	companyTradesAtStockExchange	['State Printing Company', 'New York Stock Exchange']
+27	Enbridge	companyTradesAtStockExchange	none
+28	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+29	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+30	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+31	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+32	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+33	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+34	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+35	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+36	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+37	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+38	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+39	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+40	Enbridge	companyTradesAtStockExchange	['Enbridge Inc', 'Toronto Stock Exchange']
+41	Galena Park ISD Stadium in Texas	hasCapacity	10000
+42	Galena Park ISD Stadium in Texas	hasCapacity	10000
+43	Galena Park ISD Stadium in Texas	hasCapacity	10000
+44	A.J. Simeon Stadium in North Carolina	hasCapacity	10000
+45	A.J. Simeon Stadium in North Carolina	hasCapacity	10000
+46	A.J. Simeon Stadium in North Carolina	hasCapacity	10000
+47	A.J. Simeon Stadium in North Carolina	hasCapacity	10000
+48	A.J. Simeon Stadium in North Carolina	hasCapacity	10000
+49	Costa Rica	countryLandBordersCountry	['Costa Rica', 'Nicaragua', 'Panama']
+50	Costa Rica	countryLandBordersCountry	['Costa Rica', 'Nicaragua', 'Panama']
+51	Costa Rica	countryLandBordersCountry	['Costa Rica', 'Nicaragua', 'Panama']
+52	Costa Rica	countryLandBordersCountry	['Costa Rica', 'Nicaragua', 'Panama']
+53	Costa Rica	countryLandBordersCountry	['Costa Rica', 'Nicaragua', 'Panama']
+54	Costa Rica	countryLandBordersCountry	['Costa Rica', 'Nicaragua', 'Panama']
+55	Costa Rica	countryLandBordersCountry	['Costa Rica', 'Nicaragua', 'Panama']
+56	Costa Rica	countryLandBordersCountry	['Costa Rica', 'Nicaragua', 'Panama']
+57	Costa Rica	countryLandBordersCountry	['Costa Rica', 'Nicaragua', 'Panama']
+58	Austria	hasArea	83871
+59	Austria	hasArea	83871
+60	Austria	hasArea	83871
+61	Austria	hasArea	83871
+62	Austria	hasArea	83871
+63	Idaho Botanical Garden	companyTradesAtStockExchange	Idaho Botanical Garden
+64	Idaho Botanical Garden	companyTradesAtStockExchange	Idaho Botanical Garden
+65	"Luther ""Nick"" Jeralds Stadium in North Carolina"	hasCapacity	10000
+66	"Luther ""Nick"" Jeralds Stadium in North Carolina"	hasCapacity	10000
+67	"Luther ""Nick"" Jeralds Stadium in North Carolina"	hasCapacity	10000
+68	"Luther ""Nick"" Jeralds Stadium in North Carolina"	hasCapacity	10000
+69	"Luther ""Nick"" Jeralds Stadium in North Carolina"	hasCapacity	10000
+70	"Luther ""Nick"" Jeralds Stadium in North Carolina"	hasCapacity	10000
+71	"Luther ""Nick"" Jeralds Stadium in North Carolina"	hasCapacity	10000
+72	Godfrey Hewitt	personHasCityOfDeath	['Godfrey Hewitt', 'London']
+73	Godfrey Hewitt	personHasCityOfDeath	['Godfrey Hewitt', 'London']
+74	Godfrey Hewitt	personHasCityOfDeath	['Godfrey Hewitt', 'London']
+75	Godfrey Hewitt	personHasCityOfDeath	['Godfrey Hewitt', 'London']
+76	Godfrey Hewitt	personHasCityOfDeath	['Godfrey Hewitt', 'London']
+77	Godfrey Hewitt	personHasCityOfDeath	['Godfrey Hewitt', 'London']
+78	Eleuthera	hasArea	142
+79	Netherlands	countryLandBordersCountry	['Netherlands', 'Belgium', 'Germany', 'Luxembourg', 'France']
+80	Netherlands	countryLandBordersCountry	['Netherlands', 'Belgium', 'Germany', 'Luxembourg', 'France']
+81	Netherlands	countryLandBordersCountry	['Netherlands', 'Belgium', 'Germany', 'Luxembourg', 'France']
+82	Netherlands	countryLandBordersCountry	['Netherlands', 'Belgium', 'Germany', 'Luxembourg', 'France']
+83	Netherlands	countryLandBordersCountry	['Netherlands', 'Belgium', 'Germany', 'Luxembourg', 'France']
+84	Netherlands	countryLandBordersCountry	['Netherlands', 'Belgium', 'Germany', 'Luxembourg', 'France']
+85	Netherlands	countryLandBordersCountry	['Netherlands', 'Belgium', 'Germany', 'Luxembourg', 'France']
+86	Netherlands	countryLandBordersCountry	['Netherlands', 'Belgium', 'Germany', 'Luxembourg', 'France']
+87	Netherlands	countryLandBordersCountry	['Netherlands', 'Belgium', 'Germany', 'Luxembourg', 'France']
+88	Yuri Koptev	personHasCityOfDeath	none
+89	Yuri Koptev	personHasCityOfDeath	none
+90	Frank Eck Stadium in Indiana	hasCapacity	10000
+91	Frank Eck Stadium in Indiana	hasCapacity	10000
+92	Frank Eck Stadium in Indiana	hasCapacity	10000
+93	Frank Eck Stadium in Indiana	hasCapacity	10000
+94	Frank Eck Stadium in Indiana	hasCapacity	10000
+95	Frank Eck Stadium in Indiana	hasCapacity	10000
+96	Syria	countryLandBordersCountry	['Syria', 'Iraq', 'Israel', 'Jordan', 'Lebanon', 'Turkey']
+97	Syria	countryLandBordersCountry	['Syria', 'Iraq', 'Israel', 'Jordan', 'Lebanon', 'Turkey']
+98	Syria	countryLandBordersCountry	['Syria', 'Iraq', 'Israel', 'Jordan', 'Lebanon', 'Turkey']
+99	Syria	countryLandBordersCountry	['Syria', 'Iraq', 'Israel', 'Jordan', 'Lebanon', 'Turkey']
+100	Syria	countryLandBordersCountry	['Syria', 'Iraq', 'Jordan', 'Lebanon', 'Turkey', 'Israel']
+101	Syria	countryLandBordersCountry	['Syria', 'Iraq', 'Israel', 'Jordan', 'Lebanon', 'Turkey']
+102	Milan Lasica	personHasCityOfDeath	['Milan Lasica', 'Ljub']
+103	Benteng Stadium in Tangerang	hasCapacity	20000
+104	Benteng Stadium in Tangerang	hasCapacity	15000
+105	Benteng Stadium in Tangerang	hasCapacity	10000
+106	Benteng Stadium in Tangerang	hasCapacity	20000
+107	Benteng Stadium in Tangerang	hasCapacity	15000
+108	Benteng Stadium in Tangerang	hasCapacity	20000
+109	Benteng Stadium in Tangerang	hasCapacity	20000
+110	Benteng Stadium in Tangerang	hasCapacity	15000
+111	JYP Entertainment	companyTradesAtStockExchange	Entertainment
+112	Colombia	countryLandBordersCountry	['Colombia', 'Argentina', 'Brazil', 'Ecuador', 'Peru', 'Venezuela']
+113	Colombia	countryLandBordersCountry	['Colombia', 'Argentina', 'Brazil', 'Ecuador', 'Peru', 'Venezuela']
+114	Colombia	countryLandBordersCountry	['Colombia', 'Brazil', 'Ecuador', 'Peru', 'Venezuela', 'Panama']
+115	Colombia	countryLandBordersCountry	['Colombia', 'Argentina', 'Brazil', 'Ecuador', 'Peru', 'Venezuela']
+116	Estadio San Carlos de Apoquindo in Santiago	hasCapacity	20000
+117	Groote Eylandt	hasArea	125
+118	Groote Eylandt	hasArea	125
+119	Groote Eylandt	hasArea	125
+120	Rosa Posada	personHasCityOfDeath	['Rosa Posada', 'Mexico City']
+121	Rosa Posada	personHasCityOfDeath	['Rosa Posada', 'Mexico City']
+122	Rosa Posada	personHasCityOfDeath	['Rosa Posada', 'Mexico City']
+123	Rosa Posada	personHasCityOfDeath	['Rosa Posada', 'Mexico City']
+124	Rosa Posada	personHasCityOfDeath	['Rosa Posada', 'Mexico City']
+125	Rosa Posada	personHasCityOfDeath	['Rosa Posada', 'Mexico City']
+126	Rosa Posada	personHasCityOfDeath	['Rosa Posada', 'Mexico City']
+127	Rosa Posada	personHasCityOfDeath	['Rosa Posada', 'Mexico City']
+128	Rosa Posada	personHasCityOfDeath	['Rosa Posada', 'Mexico City']
+129	Farfetch	companyTradesAtStockExchange	Farfetch
+130	Estadio Cementos Progreso in Guatemala City	hasCapacity	25000
+131	Estadio Cementos Progreso in Guatemala City	hasCapacity	25000
+132	Estadio Cementos Progreso in Guatemala City	hasCapacity	25000
+133	Century Lotus Stadium in Foshan	hasCapacity	30000
+134	Century Lotus Stadium in Foshan	hasCapacity	30000
+135	Century Lotus Stadium in Foshan	hasCapacity	20000
+136	Century Lotus Stadium in Foshan	hasCapacity	30000
+137	Century Lotus Stadium in Foshan	hasCapacity	20000
+138	Vyacheslav Starshinov	personHasCityOfDeath	none
+139	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+140	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+141	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+142	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+143	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+144	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+145	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+146	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+147	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+148	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+149	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+150	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+151	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+152	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+153	United Arab Emirates	countryLandBordersCountry	['United Arab Emirates', 'Oman', 'Saudi Arabia']
+154	United Arab Emirates	countryLandBordersCountry	['United Arab Emirates', 'Oman', 'Saudi Arabia']
+155	United Arab Emirates	countryLandBordersCountry	['United Arab Emirates', 'Oman', 'Saudi Arabia']
+156	United Arab Emirates	countryLandBordersCountry	['United Arab Emirates', 'Oman', 'Saudi Arabia']
+157	United Arab Emirates	countryLandBordersCountry	['United Arab Emirates', 'Oman', 'Saudi Arabia']
+158	Amager	hasArea	73.5
+159	Amager	hasArea	73.5
+160	Amager	hasArea	73.6
+161	Amager	hasArea	73.5
+162	Amager	hasArea	73.5
+163	Tanzania	countryLandBordersCountry	['Tanzania', 'Burundi', 'Kenya', 'Malawi', 'Moz']
+164	Tanzania	countryLandBordersCountry	['Tanzania', 'Burundi', 'Kenya', 'Malawi', 'Moz']
+165	Myanmar	countryLandBordersCountry	['Bangladesh', 'Bhutan', 'China', 'India', 'Laos', 'Thailand']
+166	Myanmar	countryLandBordersCountry	['Bangladesh', 'Bhutan', 'China', 'India', 'Laos', 'Thailand']
+167	Myanmar	countryLandBordersCountry	['Bangladesh', 'Bhutan', 'China', 'India', 'Laos', 'Thailand']
+168	Myanmar	countryLandBordersCountry	['Bangladesh', 'Bhutan', 'China', 'India', 'Laos', 'Thailand']
+169	Myanmar	countryLandBordersCountry	['Bangladesh', 'Bhutan', 'China', 'India', 'Laos', 'Thailand']
+170	Myanmar	countryLandBordersCountry	['Bangladesh', 'Bhutan', 'China', 'India', 'Laos', 'Thailand']
+171	Myanmar	countryLandBordersCountry	['Bangladesh', 'Bhutan', 'China', 'India', 'Laos', 'Thailand']
+172	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+173	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+174	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+175	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+176	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+177	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+178	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+179	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+180	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+181	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+182	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+183	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York Stock Exchange']
+184	Zimbabwe	hasArea	390758
+185	Zimbabwe	hasArea	390757
+186	Dietmar Hopp	personHasCityOfDeath	['Dietmar Hopp', 'Stuttgart']
+187	Dietmar Hopp	personHasCityOfDeath	['Dietmar Hopp', 'Stuttgart']
+188	Dietmar Hopp	personHasCityOfDeath	['Dietmar Hopp', 'Stuttgart']
+189	Dietmar Hopp	personHasCityOfDeath	['Dietmar Hopp', 'Stuttgart']
+190	Dietmar Hopp	personHasCityOfDeath	['Dietmar Hopp', 'Stuttgart']
+191	Dietmar Hopp	personHasCityOfDeath	['Dietmar Hopp', 'Stuttgart']
+192	Dietmar Hopp	personHasCityOfDeath	['Dietmar Hopp', 'Stuttgart']
+193	Dietmar Hopp	personHasCityOfDeath	['Dietmar Hopp', 'Stuttgart']
+194	Dietmar Hopp	personHasCityOfDeath	['Dietmar Hopp', 'Stuttgart']
+195	Awaji Island	hasArea	1642
+196	Awaji Island	hasArea	1652
+197	Awaji Island	hasArea	1648
+198	Awaji Island	hasArea	1654
+199	Awaji Island	hasArea	1654
+200	Awaji Island	hasArea	1823
+201	Awaji Island	hasArea	1652
+202	Endre Bojtár	personHasCityOfDeath	['Endre', 'Budapest']
+203	Endre Bojtár	personHasCityOfDeath	['Endre', 'Budapest']
+204	Endre Bojtár	personHasCityOfDeath	['Endre', 'Budapest']
+205	Endre Bojtár	personHasCityOfDeath	['Endre', 'Budapest']
+206	Endre Bojtár	personHasCityOfDeath	['Endre', 'Budapest']
+207	Endre Bojtár	personHasCityOfDeath	['Endre', 'Budapest']
+208	Endre Bojtár	personHasCityOfDeath	['Endre', 'Budapest']
+209	Robinson Crusoe Island	hasArea	1630
+210	Robinson Crusoe Island	hasArea	1630
+211	Robinson Crusoe Island	hasArea	1630
+212	Robinson Crusoe Island	hasArea	1630
+213	Robinson Crusoe Island	hasArea	1630
+214	Frans Molenaar	personHasCityOfDeath	['Frans Molenaar', 'Amsterdam']
+215	Frans Molenaar	personHasCityOfDeath	none
+216	Frans Molenaar	personHasCityOfDeath	['Frans Molenaar', 'Amsterdam']
+217	Moraine Lake	hasArea	6.13
+218	Moraine Lake	hasArea	6.15
+219	Moraine Lake	hasArea	6.15
+220	Moraine Lake	hasArea	6.14
+221	Moraine Lake	hasArea	6.75
+222	Moraine Lake	hasArea	6.17
+223	Moraine Lake	hasArea	6.15
+224	Western Stadium in Phnom Penh	hasCapacity	15000
+225	Western Stadium in Phnom Penh	hasCapacity	15000
+226	Western Stadium in Phnom Penh	hasCapacity	10000
+227	Western Stadium in Phnom Penh	hasCapacity	15000
+228	Western Stadium in Phnom Penh	hasCapacity	10000
+229	Western Stadium in Phnom Penh	hasCapacity	15000
+230	Western Stadium in Phnom Penh	hasCapacity	15000
+231	Arista Networks	companyTradesAtStockExchange	Arista Networks
+232	Arista Networks	companyTradesAtStockExchange	Arista Networks
+233	Uzbekistan	countryLandBordersCountry	['Uzbekistan', 'Afghanistan', 'Azerbaijan', 'China', 'Kazakhstan']
+234	Uzbekistan	countryLandBordersCountry	['Uzbekistan', 'Afghanistan', 'Azerbaijan', 'China', 'Kazakhstan']
+235	Uzbekistan	countryLandBordersCountry	['Uzbekistan', 'Afghanistan', 'Azerbaijan', 'China', 'Kazakhstan']
+236	Uzbekistan	countryLandBordersCountry	['Uzbekistan', 'Afghanistan', 'Azerbaijan', 'China', 'Kazakhstan']
+237	Uzbekistan	countryLandBordersCountry	['Uzbekistan', 'Afghanistan', 'Azerbaijan', 'China', 'Kazakhstan']
+238	Uzbekistan	countryLandBordersCountry	['Uzbekistan', 'Afghanistan', 'Azerbaijan', 'China', 'Kazakhstan']
+239	Uzbekistan	countryLandBordersCountry	['Uzbekistan', 'Afghanistan', 'Azerbaijan', 'China', 'Kazakhstan']
+240	Agneta Pleijel	personHasCityOfDeath	none
+241	Sultan Qaboos Sports Complex in Muscat	hasCapacity	20000
+242	Sultan Qaboos Sports Complex in Muscat	hasCapacity	25000
+243	Sultan Qaboos Sports Complex in Muscat	hasCapacity	15000
+244	Sultan Qaboos Sports Complex in Muscat	hasCapacity	20000
+245	Sultan Qaboos Sports Complex in Muscat	hasCapacity	20000
+246	Sultan Qaboos Sports Complex in Muscat	hasCapacity	30000
+247	Sultan Qaboos Sports Complex in Muscat	hasCapacity	20000
+248	Sultan Qaboos Sports Complex in Muscat	hasCapacity	15000
+249	Korčula	hasArea	147.5
+250	Korčula	hasArea	149.0
+251	Korčula	hasArea	146.4
+252	Korčula	hasArea	148.7
+253	Korčula	hasArea	147.5
+254	John A. Farrell Stadium in Pennsylvania	hasCapacity	10000
+255	John A. Farrell Stadium in Pennsylvania	hasCapacity	10000
+256	John A. Farrell Stadium in Pennsylvania	hasCapacity	10000
+257	John A. Farrell Stadium in Pennsylvania	hasCapacity	10000
+258	John A. Farrell Stadium in Pennsylvania	hasCapacity	10000
+259	Moldova	countryLandBordersCountry	['Moldova', 'Romania', 'Ukraine']
+260	Moldova	countryLandBordersCountry	['Moldova', 'Romania', 'Ukraine']
+261	Moldova	countryLandBordersCountry	['Moldova', 'Romania', 'Ukraine']
+262	Moldova	countryLandBordersCountry	['Moldova', 'Romania', 'Ukraine']
+263	Moldova	countryLandBordersCountry	['Moldova', 'Romania', 'Ukraine']
+264	Moldova	countryLandBordersCountry	['Moldova', 'Romania', 'Ukraine']
+265	Moldova	countryLandBordersCountry	['Moldova', 'Romania', 'Ukraine']
+266	Moldova	countryLandBordersCountry	['Moldova', 'Romania', 'Ukraine']
+267	Paravani Lake	hasArea	10.0
+268	Paravani Lake	hasArea	10.8
+269	Paravani Lake	hasArea	13.0
+270	Paravani Lake	hasArea	10.5
+271	Concordia Stadium in Montreal	hasCapacity	15000
+272	Thresher Stadium in Kansas	hasCapacity	10000
+273	Thresher Stadium in Kansas	hasCapacity	10000
+274	Thresher Stadium in Kansas	hasCapacity	10000
+275	Thresher Stadium in Kansas	hasCapacity	10000
+276	Thresher Stadium in Kansas	hasCapacity	10000
+277	Thresher Stadium in Kansas	hasCapacity	10000
+278	Sharks Stadium in Port Harcourt	hasCapacity	20000
+279	Sharks Stadium in Port Harcourt	hasCapacity	20000
+280	Sharks Stadium in Port Harcourt	hasCapacity	20000
+281	Sharks Stadium in Port Harcourt	hasCapacity	20000
+282	Sharks Stadium in Port Harcourt	hasCapacity	20000
+283	Sharks Stadium in Port Harcourt	hasCapacity	20000
+284	Gaddafi Stadium in Lahore	hasCapacity	40000
+285	Gaddafi Stadium in Lahore	hasCapacity	40000
+286	Gaddafi Stadium in Lahore	hasCapacity	35000
+287	Jeroen Brouwers	personHasCityOfDeath	Jeroen Brouwers
+288	Jeroen Brouwers	personHasCityOfDeath	Jeroen Brouwers
+289	Saint John	hasArea	1068.3
+290	Saint John	hasArea	1248.8
+291	Attu Island	hasArea	28.7
+292	Attu Island	hasArea	27.5
+293	Attu Island	hasArea	27.5
+294	Attu Island	hasArea	27.5
+295	Attu Island	hasArea	27.5
+296	Attu Island	hasArea	27.5
+297	King Abdullah Stadium in Amman	hasCapacity	30000
+298	King Abdullah Stadium in Amman	hasCapacity	25000
+299	Canada	countryLandBordersCountry	['Canada', 'United States', 'America', 'Denmark', 'France']
+300	Mauritius	countryLandBordersCountry	['Mauritius', 'Seychelles', 'Madagascar']
+301	Switzerland	hasArea	41284
+302	Switzerland	hasArea	41284
+303	Switzerland	hasArea	41284
+304	Switzerland	hasArea	41284
+305	Switzerland	hasArea	41284
+306	Bank Panin Dubai Syariah	companyTradesAtStockExchange	Bank Panin Dubai Syariah
+307	Edward Soja	personHasCityOfDeath	['Edward Soja', 'Los Angeles']
+308	Edward Soja	personHasCityOfDeath	none
+309	Edward Soja	personHasCityOfDeath	['Edward Soja', 'Los Angeles']
+310	Edward Soja	personHasCityOfDeath	['Edward Soja', 'Los Angeles']
+311	Edward Soja	personHasCityOfDeath	['Edward Soja', 'Los Angeles']
+312	Edward Soja	personHasCityOfDeath	['Edward Soja', 'Los Angeles']
+313	Edward Soja	personHasCityOfDeath	['Edward Soja', 'Los Angeles']
+314	Aleksandr Neumyvakin	personHasCityOfDeath	Aleksandr Neumyvakin
+315	Aleksandr Neumyvakin	personHasCityOfDeath	none
+316	Belgium	countryLandBordersCountry	['Belgium', 'France', 'Germany', 'Luxembourg', 'Netherlands']
+317	Belgium	countryLandBordersCountry	['Belgium', 'France', 'Germany', 'Luxembourg', 'Netherlands']
+318	Belgium	countryLandBordersCountry	['Belgium', 'France', 'Germany', 'Luxembourg', 'Netherlands']
+319	Belgium	countryLandBordersCountry	['Belgium', 'France', 'Germany', 'Luxembourg', 'Netherlands']
+320	Belgium	countryLandBordersCountry	['Belgium', 'France', 'Germany', 'Luxembourg', 'Netherlands']
+321	Belgium	countryLandBordersCountry	['Belgium', 'France', 'Germany', 'Luxembourg', 'Netherlands']
+322	Belgium	countryLandBordersCountry	['Belgium', 'France', 'Germany', 'Luxembourg', 'Netherlands']
+323	Nigeria	countryLandBordersCountry	['Nigeria', 'Benin', 'Burkina Faso', 'Cameroon']
+324	Nigeria	countryLandBordersCountry	['Nigeria', 'Benin', 'Burkina Faso', 'Cameroon']
+325	Nigeria	countryLandBordersCountry	['Nigeria', 'Benin', 'Burkina Faso', 'Cameroon']
+326	Nigeria	countryLandBordersCountry	['Nigeria', 'Benin', 'Burkina Faso', 'Cameroon']
+327	Nigeria	countryLandBordersCountry	['Nigeria', 'Benin', 'Burkina Faso', 'Cameroon']
+328	Nigeria	countryLandBordersCountry	['Nigeria', 'Benin', 'Burkina Faso', 'Cameroon']
+329	Nigeria	countryLandBordersCountry	['Nigeria', 'Benin', 'Burkina Faso', 'Cameroon']
+330	Nigeria	countryLandBordersCountry	['Nigeria', 'Benin', 'Burkina Faso', 'Cameroon']
+331	Nigeria	countryLandBordersCountry	['Nigeria', 'Benin', 'Burkina Faso', 'Cameroon']
+332	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+333	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+334	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+335	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+336	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+337	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+338	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+339	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+340	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+341	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+342	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+343	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+344	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+345	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+346	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+347	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+348	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+349	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+350	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+351	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+352	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+353	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+354	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+355	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+356	Chubu Electric Power	companyTradesAtStockExchange	Chubu Electric Power
+357	Vladimir Magomedovich Semyonov	personHasCityOfDeath	none
+358	Vladimir Magomedovich Semyonov	personHasCityOfDeath	none
+359	Saint Vincent	hasArea	389
+360	Erie Railroad	companyTradesAtStockExchange	none
+361	Erie Railroad	companyTradesAtStockExchange	['Erie Railroad', 'New York Stock']
+362	Erie Railroad	companyTradesAtStockExchange	['Erie Railroad', 'New York Stock']
+363	Erie Railroad	companyTradesAtStockExchange	['Erie Railroad', 'New York Stock']
+364	Erie Railroad	companyTradesAtStockExchange	['Erie Railroad', 'New York Stock']
+365	Nautilus, Inc.	companyTradesAtStockExchange	['Nautilus', 'Inc']
+366	Nautilus, Inc.	companyTradesAtStockExchange	['Nautilus', 'Inc']
+367	Carlos Goberna	personHasCityOfDeath	['Carlos Goberna', 'Madrid']
+368	Carlos Goberna	personHasCityOfDeath	['Carlos Goberna', 'Madrid']
+369	Carlos Goberna	personHasCityOfDeath	['Carlos Goberna', 'Madrid']
+370	Carlos Goberna	personHasCityOfDeath	['Carlos Goberna', 'Madrid']
+371	Carlos Goberna	personHasCityOfDeath	['Carlos Goberna', 'Madrid']
+372	Carlos Goberna	personHasCityOfDeath	['Carlos Goberna', 'Madrid']
+373	Mallorca	hasArea	3640
+374	Mallorca	hasArea	3640
+375	Mallorca	hasArea	3640
+376	Mallorca	hasArea	3640
+377	New İzmir Stadium in İzmir	hasCapacity	45000
+378	New İzmir Stadium in İzmir	hasCapacity	45000
+379	New İzmir Stadium in İzmir	hasCapacity	30000
+380	New İzmir Stadium in İzmir	hasCapacity	45000
+381	New İzmir Stadium in İzmir	hasCapacity	45000
+382	DSC Hockey Stadium in Emirate of Dubai	hasCapacity	[]
+383	DSC Hockey Stadium in Emirate of Dubai	hasCapacity	15000
+384	Astroturf Hockey Stadium in Ranchi	hasCapacity	10000
+385	State Printing Company	companyTradesAtStockExchange	1
+386	State Printing Company	companyTradesAtStockExchange	State Printing Company
+387	State Printing Company	companyTradesAtStockExchange	1
+388	State Printing Company	companyTradesAtStockExchange	State Printing Company
+389	State Printing Company	companyTradesAtStockExchange	State Printing Company
+390	Montserrat	hasArea	102
+391	A.J. Simeon Stadium in North Carolina	hasCapacity	10000
+392	A.J. Simeon Stadium in North Carolina	hasCapacity	10000
+393	A.J. Simeon Stadium in North Carolina	hasCapacity	10000
+394	A.J. Simeon Stadium in North Carolina	hasCapacity	10000
+395	Idaho Botanical Garden	companyTradesAtStockExchange	Idaho Botanical
+396	Eleuthera	hasArea	140.5
+397	Milan Lasica	personHasCityOfDeath	Ljubljana
+398	Milan Lasica	personHasCityOfDeath	Milan Lasica
+399	Colombia	countryLandBordersCountry	The text provided does not contain any specific locations or numerical data that can be
+400	Estadio San Carlos de Apoquindo in Santiago	hasCapacity	20000
+401	Estadio San Carlos de Apoquindo in Santiago	hasCapacity	30000
+402	Estadio San Carlos de Apoquindo in Santiago	hasCapacity	20000
+403	Estadio San Carlos de Apoquindo in Santiago	hasCapacity	20000
+404	Groote Eylandt	hasArea	125
+405	Farfetch	companyTradesAtStockExchange	The input text is a single year, 1999, which
+406	Farfetch	companyTradesAtStockExchange	Farfetch
+407	Estadio Cementos Progreso in Guatemala City	hasCapacity	25000
+408	Estadio Cementos Progreso in Guatemala City	hasCapacity	40000
+409	United Arab Emirates	countryLandBordersCountry	['Oman', 'Saudi Arabia']
+410	United Arab Emirates	countryLandBordersCountry	['Oman', 'Saudi Arabia']
+411	Frederick Brownell	personHasCityOfDeath	The city of death is not known
+412	Frederick Brownell	personHasCityOfDeath	1955-04-10
+413	Tanzania	countryLandBordersCountry	Tanzania
+414	Halliburton	companyTradesAtStockExchange	['Halliburton', 'New York']
+415	Frans Molenaar	personHasCityOfDeath	Fr
+416	Western Stadium in Phnom Penh	hasCapacity	10000
+417	Arista Networks	companyTradesAtStockExchange	Arista Networks
+418	Uzbekistan	countryLandBordersCountry	['Uzbekistan', 'Afghanistan', 'Azerbaijan']
+419	Agneta Pleijel	personHasCityOfDeath	The input text is a single year, 1946, which
+420	Agneta Pleijel	personHasCityOfDeath	1999-04-17
+421	Korčula	hasArea	144
+422	John A. Farrell Stadium in Pennsylvania	hasCapacity	10000
+423	John A. Farrell Stadium in Pennsylvania	hasCapacity	10000
+424	John A. Farrell Stadium in Pennsylvania	hasCapacity	10000
+425	Moldova	countryLandBordersCountry	['Romania', 'Ukraine']
+426	Svínoy	hasArea	[]
+427	Thresher Stadium in Kansas	hasCapacity	10000
+428	Gaddafi Stadium in Lahore	hasCapacity	35000
+429	Gaddafi Stadium in Lahore	hasCapacity	40000
+430	Jeroen Brouwers	personHasCityOfDeath	1999
+431	Attu Island	hasArea	27.5
+432	Canada	countryLandBordersCountry	['Canada', 'United States', 'Greenland']
+433	Mauritius	countryLandBordersCountry	['Madagascar', 'Seychelles']
+434	Mauritius	countryLandBordersCountry	[]
+435	Mauritius	countryLandBordersCountry	['Seychelles', 'Madagascar']
+436	Klaus-Dieter Lehmann	personHasCityOfDeath	1
+437	Klaus-Dieter Lehmann	personHasCityOfDeath	Istanbul
+438	Sun Hing Printing	companyTradesAtStockExchange	['Sun Hing Printing', 'Hong Kong Stock Exchange']
+439	Saint Vincent	hasArea	389
+440	Saint Vincent	hasArea	389
+441	Erie Railroad	companyTradesAtStockExchange	['The Erie Railroad', 'United States']
+442	New İzmir Stadium in İzmir	hasCapacity	30000
+443	DSC Hockey Stadium in Emirate of Dubai	hasCapacity	15000
+444	DSC Hockey Stadium in Emirate of Dubai	hasCapacity	10000
+445	DSC Hockey Stadium in Emirate of Dubai	hasCapacity	10000
+446	DSC Hockey Stadium in Emirate of Dubai	hasCapacity	10000
+447	DSC Hockey Stadium in Emirate of Dubai	hasCapacity	15000
+448	Solomon Burke	personHasCityOfDeath	1989
+449	Namibia	hasArea	['Namibia']
+450	Astroturf Hockey Stadium in Ranchi	hasCapacity	15000
+451	Astroturf Hockey Stadium in Ranchi	hasCapacity	10000
+452	Astroturf Hockey Stadium in Ranchi	hasCapacity	15000
+453	Astroturf Hockey Stadium in Ranchi	hasCapacity	10000
+454	State Printing Company	companyTradesAtStockExchange	State Printing Company
+455	Galena Park ISD Stadium in Texas	hasCapacity	10,000
+456	H World Group Limited	companyTradesAtStockExchange	London Stock Exchange
+457	H World Group Limited	companyTradesAtStockExchange	London Stock Exchange
+458	Idaho Botanical Garden	companyTradesAtStockExchange	Idaho Botanical
+459	Eleuthera	hasArea	[]
+460	Eleuthera	hasArea	140
+461	Eleuthera	hasArea	140.0
+462	Farfetch	companyTradesAtStockExchange	Farfetch
+463	Estadio Cementos Progreso in Guatemala City	hasCapacity	25000
+464	Scholastic Corporation	companyTradesAtStockExchange	['Scholastic Corporation', 'New York Stock Exchange']
+465	United Arab Emirates	countryLandBordersCountry	['Oman', 'Saudi Arabia', 'Bahrain', 'Qatar']
+466	Grand Baoxin Auto Group Limited	companyTradesAtStockExchange	Hong Kong Stock Exchange
+467	Tanzania	countryLandBordersCountry	['Tanzania', 'Burundi', 'Kenya', 'Mal']
+468	Myanmar	countryLandBordersCountry	['Bangladesh', 'Bhutan', 'China']
+469	Zimbabwe	hasArea	390758
+470	Zimbabwe	hasArea	390758
+471	Zimbabwe	hasArea	390757
+472	Robinson Crusoe Island	hasArea	1630
+473	Robinson Crusoe Island	hasArea	1630
+474	Robinson Crusoe Island	hasArea	1630
+475	Frans Molenaar	personHasCityOfDeath	[]
+476	Western Stadium in Phnom Penh	hasCapacity	10000
+477	Arista Networks	companyTradesAtStockExchange	Arista Networks
+478	John A. Farrell Stadium in Pennsylvania	hasCapacity	10000
+479	Paravani Lake	hasArea	10.1
+480	Paravani Lake	hasArea	11.0
+481	Paravani Lake	hasArea	10.0
+482	Svínoy	hasArea	13.0
+483	Sharks Stadium in Port Harcourt	hasCapacity	15000
+484	Gaddafi Stadium in Lahore	hasCapacity	30000
+485	Saint John	hasArea	1066.0
+486	Aleksandr Neumyvakin	personHasCityOfDeath	1999
+487	Belgium	countryLandBordersCountry	['Belgium', 'France', 'Germany', 'Luxembourg']
+488	Sun Hing Printing	companyTradesAtStockExchange	0
+489	Carlos Goberna	personHasCityOfDeath	['Carlos Goberna', 'Madrid']
+490	Carlos Goberna	personHasCityOfDeath	['Carlos Goberna', 'Madrid']
+491	Solomon Burke	personHasCityOfDeath	['New Orleans', 'Louisiana', 'United States']
+492	Friedman's Inc.	companyTradesAtStockExchange	The stock exchange is located in the city of Toronto. The exchange has a
+493	Friedman's Inc.	companyTradesAtStockExchange	The text provided is just the number '1' and does not contain any
+494	Great Bitter Lake	hasArea	10.9
+495	Great Bitter Lake	hasArea	10.3
+496	Great Bitter Lake	hasArea	12.8
+497	Great Bitter Lake	hasArea	10.1
+498	State Printing Company	companyTradesAtStockExchange	State Printing Company
+499	Gunther Kress	personHasCityOfDeath	1940-1945
+500	Galena Park ISD Stadium in Texas	hasCapacity	16,000
+501	Galena Park ISD Stadium in Texas	hasCapacity	15000
+502	H World Group Limited	companyTradesAtStockExchange	[]
+503	H World Group Limited	companyTradesAtStockExchange	London Stock Exchange
+504	H World Group Limited	companyTradesAtStockExchange	London Stock Exchange
+505	Eleuthera	hasArea	140.0
+506	Eleuthera	hasArea	140.3
+507	Benteng Stadium in Tangerang	hasCapacity	20000
+508	Colombia	countryLandBordersCountry	['Colombia', 'Brazil', 'Peru']
+509	Farfetch	companyTradesAtStockExchange	Farfetch
+510	Estadio Cementos Progreso in Guatemala City	hasCapacity	35000
+511	Tanzania	countryLandBordersCountry	['Tanzania', 'Kenya', 'Uganda']
+512	Myanmar	countryLandBordersCountry	['Bangladesh', 'Bhutan', 'China', 'India']
+513	Victoria Island	hasArea	2150000
+514	Victoria Island	hasArea	[]
+515	Victoria Island	hasArea	131,893
+516	Halliburton	companyTradesAtStockExchange	['Houston', 'Texas', 'United States']
+517	Arista Networks	companyTradesAtStockExchange	['NASDAQ']
+518	René Koering	personHasCityOfDeath	Paris
+519	Korčula	hasArea	147.5
+520	Paravani Lake	hasArea	13.0
+521	Thresher Stadium in Kansas	hasCapacity	[]
+522	Saint John	hasArea	1071
+523	King Abdullah Stadium in Amman	hasCapacity	60000
+524	King Abdullah Stadium in Amman	hasCapacity	60000
+525	King Abdullah Stadium in Amman	hasCapacity	45000
+526	Klaus-Dieter Lehmann	personHasCityOfDeath	Munich
+527	Erie Railroad	companyTradesAtStockExchange	1905-06-13 is a date, not
+528	Nautilus, Inc.	companyTradesAtStockExchange	The text provided is a single-element list containing the string 'NASDAQ'. Since
+529	New İzmir Stadium in İzmir	hasCapacity	30000
